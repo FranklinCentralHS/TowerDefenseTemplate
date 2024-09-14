@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bwtsb00eicia8"
-path="res://.godot/imported/bat.png-b4dcdafe8e6560a95e9db551073d0849.ctex"
+uid="uid://cupato2exm5ju"
+path="res://.godot/imported/Single Bat.png-f1801662a7e4e2c8340479c11ee61802.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/bat.png"
-dest_files=["res://.godot/imported/bat.png-b4dcdafe8e6560a95e9db551073d0849.ctex"]
+source_file="res://Assets/Sprites/Single Bat.png"
+dest_files=["res://.godot/imported/Single Bat.png-f1801662a7e4e2c8340479c11ee61802.ctex"]
 
 [params]
 

@@ -1,0 +1,60 @@
+[gd_scene load_steps=9 format=3 uid="uid://c3q0ky6imdxhb"]
+
+[ext_resource type="Script" path="res://Assets/Scripts/Enemy.gd" id="1_q1ifb"]
+[ext_resource type="Texture2D" uid="uid://bwtsb00eicia8" path="res://Assets/Sprites/bat.png" id="2_y5cgl"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_b168c"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ig20e"]
+atlas = ExtResource("2_y5cgl")
+region = Rect2(0, 96, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qw378"]
+atlas = ExtResource("2_y5cgl")
+region = Rect2(32, 96, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_5qg1o"]
+atlas = ExtResource("2_y5cgl")
+region = Rect2(64, 96, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_tn6yo"]
+atlas = ExtResource("2_y5cgl")
+region = Rect2(96, 96, 32, 32)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_x0unp"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ig20e")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qw378")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_5qg1o")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_tn6yo")
+}],
+"loop": true,
+"name": &"FlyR",
+"speed": 10.0
+}]
+
+[node name="Bat" type="CharacterBody2D"]
+script = ExtResource("1_q1ifb")
+speed = 15
+damage = 5
+canFly = "true"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(1, -15)
+shape = SubResource("CircleShape2D_b168c")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+texture_filter = 1
+position = Vector2(0, -16)
+sprite_frames = SubResource("SpriteFrames_x0unp")
+animation = &"FlyR"
+autoplay = "FlyR"
+frame_progress = 0.767927
