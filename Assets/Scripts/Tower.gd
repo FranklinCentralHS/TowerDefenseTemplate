@@ -1,4 +1,4 @@
-extends CharacterBody2D
+extends characterBody2D
 class_name Tower
 #all towers have this
 @export var range = 10
