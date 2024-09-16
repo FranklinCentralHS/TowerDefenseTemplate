@@ -12,7 +12,7 @@ var accel = 7
 @onready var nav: NavigationAgent2D = $NavigationAgent2D
 func _process(delta):
 	var direction = Vector3()
-	nav.target_position = Vector2(1194, 472)
+	nav.target_position = Vector2(1250, 477)
 
 	direction = nav.get_next_path_position()-global_position
 	direction =direction.normalized()

@@ -4,6 +4,7 @@
 [ext_resource type="Texture2D" uid="uid://bwtsb00eicia8" path="res://Assets/Sprites/bat.png" id="2_y5cgl"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_8ojwq"]
+radius = 4.12311
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_l7isy"]
 atlas = ExtResource("2_y5cgl")
@@ -155,4 +156,4 @@ scale = Vector2(0.734375, 0.859375)
 sprite_frames = SubResource("SpriteFrames_qvkls")
 animation = &"Ufly"
 autoplay = "Rfly"
-frame_progress = 0.051723
+frame_progress = 0.595053
