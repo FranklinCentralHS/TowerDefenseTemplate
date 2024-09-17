@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://clqt8ch3kgo44"
+path="res://.godot/imported/detail_rocks.obj-e9d0c4d95320f0b512c16b6d7e0064df.mesh"
+
+[deps]
+
+files=["res://.godot/imported/detail_rocks.obj-e9d0c4d95320f0b512c16b6d7e0064df.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/detail_rocks.obj"
+dest_files=["res://.godot/imported/detail_rocks.obj-e9d0c4d95320f0b512c16b6d7e0064df.mesh", "res://.godot/imported/detail_rocks.obj-e9d0c4d95320f0b512c16b6d7e0064df.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

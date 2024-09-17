@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://hd1spq15468y"
+path="res://.godot/imported/towerRound_roofA.obj-52eb782a827d04e2f1cb10e8bedfc960.mesh"
+
+[deps]
+
+files=["res://.godot/imported/towerRound_roofA.obj-52eb782a827d04e2f1cb10e8bedfc960.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/towerRound_roofA.obj"
+dest_files=["res://.godot/imported/towerRound_roofA.obj-52eb782a827d04e2f1cb10e8bedfc960.mesh", "res://.godot/imported/towerRound_roofA.obj-52eb782a827d04e2f1cb10e8bedfc960.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
