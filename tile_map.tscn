@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://dvkw1dbkx08vv"]
-
-[sub_resource type="TileSet" id="TileSet_xa6nv"]
-
-[node name="TileMap" type="TileMap"]
-tile_set = SubResource("TileSet_xa6nv")
-rendering_quadrant_size = 64
-format = 2
