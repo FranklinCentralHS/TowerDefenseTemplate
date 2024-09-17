@@ -1,6 +1,6 @@
 [gd_scene load_steps=8 format=3 uid="uid://sh1ninep52yf"]
 
-[ext_resource type="Script" path="res://Scenes/game.gd" id="1_aiswi"]
+[ext_resource type="Script" path="res://Assets/Scripts/game.gd" id="1_aiswi"]
 [ext_resource type="Texture2D" uid="uid://conrd06nynt6l" path="res://Assets/Sprites/Tiny Top Down 32x32.png" id="1_wodl2"]
 [ext_resource type="PackedScene" uid="uid://cjwijdmqlheyn" path="res://Scenes/killzone.tscn" id="2_oqj5r"]
 [ext_resource type="PackedScene" uid="uid://dq223e6q1a4hw" path="res://Scenes/bat.tscn" id="3_3y4do"]
@@ -446,62 +446,83 @@ position = Vector2(1149, 472)
 position = Vector2(129, 515)
 rotation = 0.00353355
 speed = 50
+canFly = "true"
+Name = "bat"
 
 [node name="NavigationAgent2D" type="NavigationAgent2D" parent="bat3"]
 
 [node name="bat" parent="." instance=ExtResource("3_3y4do")]
 position = Vector2(128, 249)
 speed = 50
+canFly = "true"
+Name = "bat"
 
 [node name="NavigationAgent2D" type="NavigationAgent2D" parent="bat"]
 
 [node name="bat2" parent="." instance=ExtResource("3_3y4do")]
 position = Vector2(127, 353)
 speed = 50
+canFly = "true"
+Name = "bat"
 
 [node name="NavigationAgent2D" type="NavigationAgent2D" parent="bat2"]
 
 [node name="bat4" parent="." instance=ExtResource("3_3y4do")]
 position = Vector2(439, 514)
 speed = 50
+canFly = "true"
+Name = "bat"
 
 [node name="NavigationAgent2D" type="NavigationAgent2D" parent="bat4"]
 
 [node name="bat5" parent="." instance=ExtResource("3_3y4do")]
 position = Vector2(284, 182)
 speed = 50
+canFly = "true"
+Name = "bat"
 
 [node name="NavigationAgent2D" type="NavigationAgent2D" parent="bat5"]
 
 [node name="bat6" parent="." instance=ExtResource("3_3y4do")]
-position = Vector2(7, 84)
+position = Vector2(705, 351)
 speed = 50
+canFly = "true"
+Name = "bat"
 
 [node name="NavigationAgent2D" type="NavigationAgent2D" parent="bat6"]
 
 [node name="bat7" parent="." instance=ExtResource("3_3y4do")]
 position = Vector2(195, 349)
 speed = 50
+canFly = "true"
+Name = "bat"
 
 [node name="NavigationAgent2D" type="NavigationAgent2D" parent="bat7"]
 
 [node name="bat8" parent="." instance=ExtResource("3_3y4do")]
 position = Vector2(247, 517)
 speed = 50
+canFly = "true"
+Name = "bat"
 
 [node name="NavigationAgent2D" type="NavigationAgent2D" parent="bat8"]
 
 [node name="bat9" parent="." instance=ExtResource("3_3y4do")]
 position = Vector2(175, 284)
 speed = 50
+canFly = "true"
+Name = "bat"
 
 [node name="NavigationAgent2D" type="NavigationAgent2D" parent="bat9"]
 
 [node name="bat10" parent="." instance=ExtResource("3_3y4do")]
 position = Vector2(126, 423)
 speed = 50
+canFly = "true"
+Name = "bat"
 
 [node name="NavigationAgent2D" type="NavigationAgent2D" parent="bat10"]
 
 [node name="NavigationRegion2D" type="NavigationRegion2D" parent="."]
+position = Vector2(-1, 1)
 navigation_polygon = SubResource("NavigationPolygon_wjdv5")

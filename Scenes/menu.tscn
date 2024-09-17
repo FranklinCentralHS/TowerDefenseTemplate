@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://g0kcr6m3qfwc"]
 
-[ext_resource type="Script" path="res://Scenes/start.gd" id="1_31pus"]
-[ext_resource type="Script" path="res://Scenes/exit.gd" id="2_tbx2g"]
+[ext_resource type="Script" path="res://Assets/Scripts/start.gd" id="1_31pus"]
+[ext_resource type="Script" path="res://Assets/Scripts/exit.gd" id="2_tbx2g"]
 
 [node name="menu" type="Node2D"]
 
@@ -46,9 +46,9 @@ offset_bottom = 283.0
 theme_override_colors/font_color = Color(0, 0.627451, 1, 1)
 theme_override_colors/font_shadow_color = Color(0, 0, 0, 1)
 theme_override_colors/font_outline_color = Color(0, 0, 0.329412, 1)
+theme_override_constants/line_spacing = 100
 theme_override_constants/shadow_offset_x = 5
 theme_override_constants/shadow_offset_y = 5
-theme_override_constants/line_spacing = 100
 theme_override_font_sizes/font_size = 120
 text = "GECKdefence"
 

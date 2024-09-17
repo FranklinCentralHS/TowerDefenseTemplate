@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://dc1avds8xqohp"]
 
-[ext_resource type="Script" path="res://Scenes/retry.gd" id="1_kxmug"]
-[ext_resource type="Script" path="res://Scenes/quit.gd" id="2_1tqby"]
+[ext_resource type="Script" path="res://Assets/Scripts/retry.gd" id="1_kxmug"]
+[ext_resource type="Script" path="res://Assets/Scripts/quit.gd" id="2_1tqby"]
 
 [node name="dead" type="Node2D"]
 

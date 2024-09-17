@@ -1,8 +1,8 @@
 extends Area2D
 
-var health=100
+var health=GlobalVariable.health
 
-func _on_body_entered(_body):
-	health-=10
+func _on_body_entered(body):
+	health-=body.damage
 	if health<=0:
 		get_tree().change_scene_to_file("res://Scenes/dead.tscn")
