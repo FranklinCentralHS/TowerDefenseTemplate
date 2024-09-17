@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bp5co0hm08qwv"
+path="res://.godot/imported/tile_riverFall.obj-b9acad832c28bf5ef26437560920a6a8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tile_riverFall.obj-b9acad832c28bf5ef26437560920a6a8.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/tile_riverFall.obj"
+dest_files=["res://.godot/imported/tile_riverFall.obj-b9acad832c28bf5ef26437560920a6a8.mesh", "res://.godot/imported/tile_riverFall.obj-b9acad832c28bf5ef26437560920a6a8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

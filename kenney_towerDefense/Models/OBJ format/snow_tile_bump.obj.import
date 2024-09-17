@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://crw6ddp5ltqu6"
+path="res://.godot/imported/snow_tile_bump.obj-1ffb99a1af48b970e24f4103b09adc8f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/snow_tile_bump.obj-1ffb99a1af48b970e24f4103b09adc8f.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/snow_tile_bump.obj"
+dest_files=["res://.godot/imported/snow_tile_bump.obj-1ffb99a1af48b970e24f4103b09adc8f.mesh", "res://.godot/imported/snow_tile_bump.obj-1ffb99a1af48b970e24f4103b09adc8f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
