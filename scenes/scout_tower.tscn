@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://dktrqu80ioskd"]
+
+[ext_resource type="Script" path="res://tower_scout.gd" id="1_yansc"]
+[ext_resource type="Texture2D" uid="uid://b4c6wxge4m7qs" path="res://assets/sprites/watchtower_wooden_full_size.png" id="2_7p83g"]
+
+[node name="Scout Tower" type="Node2D"]
+script = ExtResource("1_yansc")
+
+[node name="WatchtowerWoodenFullSize" type="Sprite2D" parent="."]
+show_behind_parent = true
+z_index = 11
+y_sort_enabled = true
+scale = Vector2(0.125, 0.117188)
+texture = ExtResource("2_7p83g")
+centered = false
+offset = Vector2(-712.5, -1012.5)
