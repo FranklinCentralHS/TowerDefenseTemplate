@@ -8,3 +8,6 @@ script = ExtResource("1_yut3g")
 path_tile = ExtResource("2_w3cjw")
 map_length = null
 map_height = null
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.999918, -0.0128104, 0, 0.0128104, 0.999918, 0, 0, 0, 1, 2.08873, 2.2297, 2.40162)
