@@ -1,13 +1,15 @@
-[gd_scene load_steps=4 format=3 uid="uid://8hiexlnil4hx"]
+[gd_scene load_steps=5 format=3 uid="uid://8hiexlnil4hx"]
 
 [ext_resource type="Script" path="res://scenes/main.gd" id="1_yut3g"]
 [ext_resource type="PackedScene" uid="uid://be21vk33jricb" path="res://kenney_towerDefense/Models/GLTF format/tile_straight.glb" id="2_3ajqx"]
+[ext_resource type="PackedScene" uid="uid://5qh86pd5clls" path="res://kenney_towerDefense/Models/GLTF format/tile.glb" id="2_w3cjw"]
 [ext_resource type="PackedScene" uid="uid://c4ryd6fd4meu5" path="res://kenney_towerDefense/Models/GLTF format/tile_cornerRound.glb" id="3_gsqku"]
 
 [node name="Main" type="Node3D"]
 script = ExtResource("1_yut3g")
 tile_straight = ExtResource("2_3ajqx")
 tile_corner = ExtResource("3_gsqku")
+tile_empty = ExtResource("2_w3cjw")
 
 [node name="Camera3D" type="Camera3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 0.422618, 0.906308, 0, -0.906308, 0.422618, 8, 8.351, 9.65)

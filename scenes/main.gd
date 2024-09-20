@@ -2,6 +2,7 @@ extends Node3D
 
 @export var tile_straight:PackedScene
 @export var tile_corner:PackedScene
+@export var tile_empty:PackedScene
 
 
 @export var map_length:int = 16
@@ -21,8 +22,15 @@ func _display_path():
 	while _path.size() < 35:
 		_path = _pg.generate_path()
 
+
 	print(_path)
 	for element in _path:
-		var tile:Node3D = tile_straight.instantiate()
+		var tile_score:int = _pg.get_tile_score(element)
+		var tile:Node3D = tile_empty.instantiate()
+		var tile_rotation: Vector3 = Vector3.ZERO
+		if tile_score == 2 or tile_score == 8 or tile_score == 10:
+			tile = tile_straight.instantiate()
+			tile_rotation = Vector3(0,90,0)
+
 		add_child(tile)
 		tile.global_position = Vector3(element.x, 0, element.y)
