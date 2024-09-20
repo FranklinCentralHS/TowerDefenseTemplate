@@ -6,3 +6,10 @@
 [node name="Main" type="Node3D"]
 script = ExtResource("1_yut3g")
 path_tile = ExtResource("2_w3cjw")
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.915803, 0.401628, 0, -0.401628, 0.915803, 0, 4.0755, 7.53245)
+fov = 120.0
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(0.999993, 0.000898737, -0.00366121, 0, 0.971168, 0.238398, 0.0037699, -0.238396, 0.971161, 0, 3.71745, 7.85939)
