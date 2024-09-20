@@ -20,4 +20,4 @@ func _display_path():
 	for element in _path:
 		var tile:Node3D = path_tile.instantiate()
 		add_child(tile)
-		tile.global_postion = Vector3(element.x, 0, element.y)
+		tile.global_position = Vector3(element.x, 0, element.y)
