@@ -48,4 +48,5 @@ func get_tile_score(tile:Vector2i) -> int:
 
 	return score
 
-
+func get_path() -> Array[Vector2i]:
+	return _path

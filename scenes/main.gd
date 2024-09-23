@@ -16,6 +16,16 @@ var _pg:PathGenerator
 func _ready():
 	_pg = PathGenerator.new(map_length, map_height)
 	_display_path()
+	_complete_grid()
+
+
+func _complete_grid():
+	for x in range(map_length):
+		for y in range(map_height):
+			if not _pg.get_path().has(Vector2i(x,y)):
+				var tile:Node3D = tile_empty.instantiate()
+				add_child(tile)
+				tile.global_position = Vector3(x, 0, y)
 
 
 func _display_path():
@@ -24,8 +34,6 @@ func _display_path():
 	while _path.size() < 35:
 		_path = _pg.generate_path()
 
-
-	print(_path)
 	for element in _path:
 		var tile_score:int = _pg.get_tile_score(element)
 		var tile:Node3D = tile_empty.instantiate()
