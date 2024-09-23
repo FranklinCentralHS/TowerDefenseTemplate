@@ -1,5 +1,7 @@
 extends Node3D
 
+@export var tile_start:PackedScene
+@export var tile_end:PackedScene
 @export var tile_straight:PackedScene
 @export var tile_corner:PackedScene
 @export var tile_empty:PackedScene
@@ -28,9 +30,35 @@ func _display_path():
 		var tile_score:int = _pg.get_tile_score(element)
 		var tile:Node3D = tile_empty.instantiate()
 		var tile_rotation: Vector3 = Vector3.ZERO
-		if tile_score == 2 or tile_score == 8 or tile_score == 10:
+
+		if tile_score == 2:
+			tile = tile_start.instantiate()
+			tile_rotation = Vector3(0,-90,0)
+		if tile_score == 8:
+			tile = tile_start.instantiate()
+			tile_rotation = Vector3(0,90,0)
+
+
+		elif tile_score == 10:
 			tile = tile_straight.instantiate()
 			tile_rotation = Vector3(0,90,0)
+		elif tile_score == 1 or tile_score == 4 or tile_score == 5:
+			tile = tile_straight.instantiate()
+			tile_rotation = Vector3(0, 0, 0)
+		elif tile_score == 6:
+			tile = tile_corner.instantiate()
+			tile_rotation = Vector3(0, 180, 0)
+		elif tile_score == 12:
+			tile = tile_corner.instantiate()
+			tile_rotation = Vector3(0, 90, 0)
+		elif tile_score == 9:
+			tile = tile_corner.instantiate()
+			tile_rotation = Vector3(0, 0, 0)
+		elif tile_score == 3:
+			tile = tile_corner.instantiate()
+			tile_rotation = Vector3(0, 270, 0)
+		
 
 		add_child(tile)
 		tile.global_position = Vector3(element.x, 0, element.y)
+		tile.global_rotation_degrees = tile_rotation
