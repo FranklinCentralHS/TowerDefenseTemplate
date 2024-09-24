@@ -12,8 +12,7 @@ tile_start = ExtResource("2_3jwxt")
 tile_straight = ExtResource("2_3ajqx")
 tile_corner = ExtResource("3_gsqku")
 tile_empty = ExtResource("2_w3cjw")
-map_length = null
-map_height = null
+map_length = 24
 
 [node name="Camera3D" type="Camera3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 0.422618, 0.906308, 0, -0.906308, 0.422618, 8, 8.351, 9.65)

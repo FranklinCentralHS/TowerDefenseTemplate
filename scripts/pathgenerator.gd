@@ -28,9 +28,9 @@ func generate_path():
 
 		if choice == 0 or x % 2 == 0 or x == _grid_length-1:
 			x += 1
-		elif choice == 1 and y < _grid_height and not _path.has(Vector2i(x,y+1)):
+		elif choice == 1 and y < _grid_height -2 and not _path.has(Vector2i(x,y+1)):
 			y += 1
-		elif choice == 2 and y > 0 and not _path.has(Vector2i(x,y-1)):
+		elif choice == 2 and y > 1 and not _path.has(Vector2i(x,y-1)):
 			y -= 1
 
 	return _path
