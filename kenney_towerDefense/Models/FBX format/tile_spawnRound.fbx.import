@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://di653u5ii5efm"
-=======
-uid="uid://ccvnnd8tme0ug"
->>>>>>> main
-path="res://.godot/imported/tile_spawnRound.fbx-7e826af6d3c7e6e188818c84fd586a31.scn"
+uid="uid://7efc8mb1jpht"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/tile_spawnRound.fbx"
-dest_files=["res://.godot/imported/tile_spawnRound.fbx-7e826af6d3c7e6e188818c84fd586a31.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

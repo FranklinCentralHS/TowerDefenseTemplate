@@ -3,11 +3,7 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
-<<<<<<< HEAD
-uid="uid://bmq1qpf2h02ge"
-=======
-uid="uid://ch1xa0ohu6te2"
->>>>>>> main
+uid="uid://d2xoaav5mlfyp"
 path="res://.godot/imported/tile_riverSlopeLarge.obj-48f1a0b3fa812b7baa735a32a476aba5.mesh"
 
 [deps]

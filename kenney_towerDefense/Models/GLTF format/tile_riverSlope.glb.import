@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://cxlij6bt5r58m"
-=======
-uid="uid://c5u2bywmj6ewv"
->>>>>>> main
+uid="uid://drhnpa854pjy7"
 path="res://.godot/imported/tile_riverSlope.glb-d726621d118ea6fe76877e0d719e2627.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

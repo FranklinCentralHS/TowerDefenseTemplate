@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://d2oo8hgx7712o"
-=======
-uid="uid://nwtaj27wlt3w"
->>>>>>> main
-path="res://.godot/imported/detail_rocks.fbx-3f6b2561a7fbf9bbd83b7e8e9e0c21e7.scn"
+uid="uid://bnfm0a1vdt14c"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/detail_rocks.fbx"
-dest_files=["res://.godot/imported/detail_rocks.fbx-3f6b2561a7fbf9bbd83b7e8e9e0c21e7.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

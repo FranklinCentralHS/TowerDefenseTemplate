@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://btjy3ovslhib7"
-=======
-uid="uid://b6cj3bh6gns2"
->>>>>>> main
-path="res://.godot/imported/towerSquare_roofC.fbx-539cca4920add3527e2eca4446146099.scn"
+uid="uid://gt4n3jja4wgm"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/towerSquare_roofC.fbx"
-dest_files=["res://.godot/imported/towerSquare_roofC.fbx-539cca4920add3527e2eca4446146099.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://cai4st7iegm5g"
-=======
-uid="uid://c4qe2lq4mcear"
->>>>>>> main
+uid="uid://cvnbi3ls7l3hb"
 path="res://.godot/imported/snow_tile_riverStraight.glb-b9f8920e0d86d7bb22733f895f353e8b.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

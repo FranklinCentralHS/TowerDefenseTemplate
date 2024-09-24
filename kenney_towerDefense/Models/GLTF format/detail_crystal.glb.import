@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://d3igro72xpat5"
-=======
-uid="uid://dr4e47jr2a0d2"
->>>>>>> main
+uid="uid://bo12qxudxhpi8"
 path="res://.godot/imported/detail_crystal.glb-bb847d8000e575c17efbe221ba7422d0.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

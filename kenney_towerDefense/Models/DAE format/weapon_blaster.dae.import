@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://dnb7h4t5y3g2f"
-=======
-uid="uid://dc5otb82jv0xj"
->>>>>>> main
+uid="uid://c4c5wb2jv2iu1"
 path="res://.godot/imported/weapon_blaster.dae-a31dc246b33f4a04f5eb5e57eaa216fb.scn"
 
 [deps]

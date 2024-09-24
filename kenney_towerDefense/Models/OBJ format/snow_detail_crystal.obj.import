@@ -3,11 +3,7 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
-<<<<<<< HEAD
-uid="uid://bb0wscdtlh1wn"
-=======
-uid="uid://c0wj0lwlw5xdj"
->>>>>>> main
+uid="uid://gy47vdwg1l0b"
 path="res://.godot/imported/snow_detail_crystal.obj-de00944782ff10bf3936ed3eaa9210cc.mesh"
 
 [deps]

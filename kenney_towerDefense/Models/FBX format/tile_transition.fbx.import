@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://c8ugs73nmwb8n"
-=======
-uid="uid://cfb1mw0ppiwji"
->>>>>>> main
-path="res://.godot/imported/tile_transition.fbx-22a1b7eedf3a19cedcdefd7f3754c491.scn"
+uid="uid://dtbmm2p6on88p"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/tile_transition.fbx"
-dest_files=["res://.godot/imported/tile_transition.fbx-22a1b7eedf3a19cedcdefd7f3754c491.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

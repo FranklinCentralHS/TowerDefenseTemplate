@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://dkaf8kx28onh3"
-=======
-uid="uid://d1nl2qpwf8x6c"
->>>>>>> main
+uid="uid://wjdstan15p51"
 path="res://.godot/imported/snow_tile_wideSplit.glb-4b440d6c16a5e44db63e9646cda45ec2.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

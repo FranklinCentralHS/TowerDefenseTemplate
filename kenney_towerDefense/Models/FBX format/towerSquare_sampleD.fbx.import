@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://c5ysvye6xls8t"
-=======
-uid="uid://dy7qxm6etcd53"
->>>>>>> main
-path="res://.godot/imported/towerSquare_sampleD.fbx-f4d1ce8f6c467b6040afebeec084f5d1.scn"
+uid="uid://r3w8e23rjhso"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/towerSquare_sampleD.fbx"
-dest_files=["res://.godot/imported/towerSquare_sampleD.fbx-f4d1ce8f6c467b6040afebeec084f5d1.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

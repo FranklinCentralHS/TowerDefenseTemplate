@@ -3,11 +3,7 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
-<<<<<<< HEAD
-uid="uid://44uy7cfiw486"
-=======
-uid="uid://cvt0fxhh1ddcu"
->>>>>>> main
+uid="uid://n1mnkg8cq4n"
 path="res://.godot/imported/snow_tile_slope.obj-c11875920c0bfaaed4d3923e3f92bbab.mesh"
 
 [deps]

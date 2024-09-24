@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://chyfp3puykgia"
-=======
-uid="uid://b8jdibf3rykvj"
->>>>>>> main
+uid="uid://dnmsaj0q6k6sq"
 path="res://.godot/imported/tile_hill.glb-da4706666937dc9ef75edea9265704b0.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

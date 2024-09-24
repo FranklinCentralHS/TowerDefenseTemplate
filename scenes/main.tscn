@@ -1,10 +1,10 @@
 [gd_scene load_steps=6 format=3 uid="uid://8hiexlnil4hx"]
 
 [ext_resource type="Script" path="res://scenes/main.gd" id="1_yut3g"]
-[ext_resource type="PackedScene" uid="uid://be21vk33jricb" path="res://kenney_towerDefense/Models/GLTF format/tile_straight.glb" id="2_3ajqx"]
-[ext_resource type="PackedScene" uid="uid://cvsi25xqgwe14" path="res://kenney_towerDefense/Models/GLTF format/tile_endRoundSpawn.glb" id="2_3jwxt"]
-[ext_resource type="PackedScene" uid="uid://5qh86pd5clls" path="res://kenney_towerDefense/Models/GLTF format/tile.glb" id="2_w3cjw"]
-[ext_resource type="PackedScene" uid="uid://c4ryd6fd4meu5" path="res://kenney_towerDefense/Models/GLTF format/tile_cornerRound.glb" id="3_gsqku"]
+[ext_resource type="PackedScene" uid="uid://qua5vttuy37t" path="res://kenney_towerDefense/Models/GLTF format/tile_straight.glb" id="2_3ajqx"]
+[ext_resource type="PackedScene" uid="uid://booivnbwnjraa" path="res://kenney_towerDefense/Models/GLTF format/tile_endRoundSpawn.glb" id="2_3jwxt"]
+[ext_resource type="PackedScene" uid="uid://tlx1ftshuv8e" path="res://kenney_towerDefense/Models/GLTF format/tile.glb" id="2_w3cjw"]
+[ext_resource type="PackedScene" uid="uid://c8lpvenmansm0" path="res://kenney_towerDefense/Models/GLTF format/tile_cornerRound.glb" id="3_gsqku"]
 
 [node name="Main" type="Node3D"]
 script = ExtResource("1_yut3g")

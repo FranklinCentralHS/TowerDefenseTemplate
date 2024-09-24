@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://dcd16cchtiqqm"
-=======
-uid="uid://dkhdw5r70elv8"
->>>>>>> main
+uid="uid://cwa1ltqk76y5s"
 path="res://.godot/imported/tile_crossing.dae-b421e90d2e18aef017bc1040645a0ec5.scn"
 
 [deps]

@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://4pbt3whlmgoy"
-=======
-uid="uid://bx7o7rkwsd1xr"
->>>>>>> main
+uid="uid://burdbm244ybro"
 path="res://.godot/imported/towerSquare_bottomB.glb-2045cf3dd01d6a957d02999c6cba09ce.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

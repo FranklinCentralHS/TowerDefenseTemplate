@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://2fmis1j778h4"
-=======
-uid="uid://e2a1o13yk6nq"
->>>>>>> main
-path="res://.godot/imported/tile_wideSplit.fbx-87867f0677f55a2637092e7105c3f00c.scn"
+uid="uid://vaxkkqx8p2mu"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/tile_wideSplit.fbx"
-dest_files=["res://.godot/imported/tile_wideSplit.fbx-87867f0677f55a2637092e7105c3f00c.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

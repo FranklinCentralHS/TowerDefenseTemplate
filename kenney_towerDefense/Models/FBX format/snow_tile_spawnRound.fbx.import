@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://5a28r0sasuia"
-=======
-uid="uid://dowcqknthv5xn"
->>>>>>> main
-path="res://.godot/imported/snow_tile_spawnRound.fbx-293cb7b2f0e5bcca777f1a1068068338.scn"
+uid="uid://1x5o70ium4h"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/snow_tile_spawnRound.fbx"
-dest_files=["res://.godot/imported/snow_tile_spawnRound.fbx-293cb7b2f0e5bcca777f1a1068068338.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

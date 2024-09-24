@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://cxga22j5tdxh4"
-=======
-uid="uid://hcs7cua81ywj"
->>>>>>> main
+uid="uid://ven0nkm5iddh"
 path="res://.godot/imported/towerRound_sampleE.glb-264d67bf0848293a1a38581d14b70e63.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

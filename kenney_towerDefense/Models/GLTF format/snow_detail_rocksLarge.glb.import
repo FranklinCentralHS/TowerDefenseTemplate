@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://dl05p48mmlq2w"
-=======
-uid="uid://cymwke5smi5u1"
->>>>>>> main
+uid="uid://c4wmd1jr085e3"
 path="res://.godot/imported/snow_detail_rocksLarge.glb-05a6b37a79f8bd545671de645b7a27dc.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

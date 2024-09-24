@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://bcciyhd5b031r"
-=======
-uid="uid://bif2hx3kiwcg3"
->>>>>>> main
-path="res://.godot/imported/tile_riverSlopeLarge.fbx-6870e723dc48e505773a44df42d21f4f.scn"
+uid="uid://bqhhmv5juvorl"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/tile_riverSlopeLarge.fbx"
-dest_files=["res://.godot/imported/tile_riverSlopeLarge.fbx-6870e723dc48e505773a44df42d21f4f.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://bra2b30kefxyi"
-=======
-uid="uid://4j2iip4o61oy"
->>>>>>> main
+uid="uid://ch3d8lyhrn56f"
 path="res://.godot/imported/tile_treeQuad.glb-cac5c347600e3934f0849ee27738b450.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

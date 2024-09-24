@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://bwjiy5vcuymr8"
-=======
-uid="uid://dssvhnceu8p58"
->>>>>>> main
-path="res://.godot/imported/tile_cornerRound.fbx-40650351279dead86690d12134b1459f.scn"
+uid="uid://bu1sgqq7jb234"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/tile_cornerRound.fbx"
-dest_files=["res://.godot/imported/tile_cornerRound.fbx-40650351279dead86690d12134b1459f.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://cc548ejkk87de"
-=======
-uid="uid://tyj6ggvcub7c"
->>>>>>> main
-path="res://.godot/imported/snow_tile_straightHill.fbx-094b6f08e8f969ccf75536d0f0dd536e.scn"
+uid="uid://bhqp5414rmve"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/snow_tile_straightHill.fbx"
-dest_files=["res://.godot/imported/snow_tile_straightHill.fbx-094b6f08e8f969ccf75536d0f0dd536e.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

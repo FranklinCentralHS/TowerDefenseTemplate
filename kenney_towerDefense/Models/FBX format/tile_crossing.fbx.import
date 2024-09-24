@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://jrkhk8xfsaa"
-=======
-uid="uid://de47m6256c12q"
->>>>>>> main
-path="res://.godot/imported/tile_crossing.fbx-e71125aa02333e7f89bef5da2bc3a9be.scn"
+uid="uid://byr4nxao5bx2i"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/tile_crossing.fbx"
-dest_files=["res://.godot/imported/tile_crossing.fbx-e71125aa02333e7f89bef5da2bc3a9be.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

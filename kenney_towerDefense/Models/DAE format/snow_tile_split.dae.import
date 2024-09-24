@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://d4ija4pbfl2fo"
-=======
-uid="uid://bh8wh7f3788vs"
->>>>>>> main
+uid="uid://dh6v2pg17qs8o"
 path="res://.godot/imported/snow_tile_split.dae-e683bc7e23cb88586cf57d273a371cdb.scn"
 
 [deps]

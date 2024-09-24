@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://cqqa0wer8im1w"
-=======
-uid="uid://0hlyjvs6p53s"
->>>>>>> main
-path="res://.godot/imported/detail_crystal.fbx-2d1f093aece392a4572e5280f2c35ffa.scn"
+uid="uid://b8lhedmncdbhl"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/detail_crystal.fbx"
-dest_files=["res://.godot/imported/detail_crystal.fbx-2d1f093aece392a4572e5280f2c35ffa.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

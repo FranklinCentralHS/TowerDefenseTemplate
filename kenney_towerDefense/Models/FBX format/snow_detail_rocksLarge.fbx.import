@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://c5rxsbkh0a6ki"
-=======
-uid="uid://byec8akg2pvai"
->>>>>>> main
-path="res://.godot/imported/snow_detail_rocksLarge.fbx-4959303f25fe80578b76cccebd652932.scn"
+uid="uid://d1gjfuqdb06vu"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/snow_detail_rocksLarge.fbx"
-dest_files=["res://.godot/imported/snow_detail_rocksLarge.fbx-4959303f25fe80578b76cccebd652932.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://dkg0f034caygi"
-=======
-uid="uid://8xp6b05ni02k"
->>>>>>> main
-path="res://.godot/imported/snow_tile_riverFall.fbx-0cc251f7e793e9bc2496dd0c26d2d6bc.scn"
+uid="uid://g05xo18c5vsc"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/snow_tile_riverFall.fbx"
-dest_files=["res://.godot/imported/snow_tile_riverFall.fbx-0cc251f7e793e9bc2496dd0c26d2d6bc.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

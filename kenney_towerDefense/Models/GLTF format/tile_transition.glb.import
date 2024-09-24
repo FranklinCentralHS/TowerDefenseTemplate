@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://qm77lqpgany8"
-=======
-uid="uid://0gx1da4cv1r0"
->>>>>>> main
+uid="uid://cc0xapkmcy2ea"
 path="res://.godot/imported/tile_transition.glb-a0fe96a23c450b490f8d519d15d7fbfb.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

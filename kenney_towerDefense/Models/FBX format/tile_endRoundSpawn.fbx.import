@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://3ipw7kh8ko26"
-=======
-uid="uid://dg6011ecgupj0"
->>>>>>> main
-path="res://.godot/imported/tile_endRoundSpawn.fbx-014449367248146b6e0de06582921da3.scn"
+uid="uid://bahnogwu78phu"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/tile_endRoundSpawn.fbx"
-dest_files=["res://.godot/imported/tile_endRoundSpawn.fbx-014449367248146b6e0de06582921da3.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

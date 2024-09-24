@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://ds1d4u7sqfmx8"
-=======
-uid="uid://bc4ucmvn65wf3"
->>>>>>> main
-path="res://.godot/imported/weapon_cannon.fbx-c06b863dc1c017c5132442859fea06a7.scn"
+uid="uid://ddmbr3c2byrep"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/weapon_cannon.fbx"
-dest_files=["res://.godot/imported/weapon_cannon.fbx-c06b863dc1c017c5132442859fea06a7.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

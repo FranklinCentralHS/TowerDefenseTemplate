@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://dciet34otjmc7"
-=======
-uid="uid://c73pjmbp5vn0l"
->>>>>>> main
-path="res://.godot/imported/snow_tile_treeQuad.fbx-82949c952c72e31df56254a3430a04b0.scn"
+uid="uid://b4elbilq1ok7g"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/snow_tile_treeQuad.fbx"
-dest_files=["res://.godot/imported/snow_tile_treeQuad.fbx-82949c952c72e31df56254a3430a04b0.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

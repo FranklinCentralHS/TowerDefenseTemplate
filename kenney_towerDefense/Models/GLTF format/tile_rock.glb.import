@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://bgslcp04w262e"
-=======
-uid="uid://dn5k1dxjfu0fy"
->>>>>>> main
+uid="uid://6ia8xgu03vkh"
 path="res://.godot/imported/tile_rock.glb-25f323760ba932e798174a20e6f99dc8.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://ccbuk146f4vw3"
-=======
-uid="uid://cl5a1efpbr3l0"
->>>>>>> main
-path="res://.godot/imported/snow_tile_wideCorner.fbx-2ec7df5f3ce382cb9e982c4d85e15475.scn"
+uid="uid://b6w1kig08lbsn"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/snow_tile_wideCorner.fbx"
-dest_files=["res://.godot/imported/snow_tile_wideCorner.fbx-2ec7df5f3ce382cb9e982c4d85e15475.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

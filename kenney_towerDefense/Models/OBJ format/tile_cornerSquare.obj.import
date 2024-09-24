@@ -3,11 +3,7 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
-<<<<<<< HEAD
-uid="uid://dju5qdktac15s"
-=======
-uid="uid://guxsjm6hm8ak"
->>>>>>> main
+uid="uid://c2awqpb5dqesy"
 path="res://.godot/imported/tile_cornerSquare.obj-39713749492428eb60f86e365b3c5834.mesh"
 
 [deps]

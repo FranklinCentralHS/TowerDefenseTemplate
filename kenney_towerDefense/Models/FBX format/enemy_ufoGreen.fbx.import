@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://bbk2dt6vu1y43"
-=======
-uid="uid://di3o2f3st5a7x"
->>>>>>> main
-path="res://.godot/imported/enemy_ufoGreen.fbx-94dcd90ddaa2a2c1dcee9af68a866c75.scn"
+uid="uid://dnrwy4e7da03v"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/enemy_ufoGreen.fbx"
-dest_files=["res://.godot/imported/enemy_ufoGreen.fbx-94dcd90ddaa2a2c1dcee9af68a866c75.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

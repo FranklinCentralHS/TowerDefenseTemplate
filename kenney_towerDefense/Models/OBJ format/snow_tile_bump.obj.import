@@ -3,11 +3,7 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
-<<<<<<< HEAD
-uid="uid://crw6ddp5ltqu6"
-=======
-uid="uid://yvcwvwh4uiet"
->>>>>>> main
+uid="uid://gqbvd72lbd1o"
 path="res://.godot/imported/snow_tile_bump.obj-1ffb99a1af48b970e24f4103b09adc8f.mesh"
 
 [deps]

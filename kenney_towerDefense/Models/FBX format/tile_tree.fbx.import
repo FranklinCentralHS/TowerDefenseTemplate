@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://ly0jgda6hc5p"
-=======
-uid="uid://ce2l0xpuh6sll"
->>>>>>> main
-path="res://.godot/imported/tile_tree.fbx-bfdc63c3967b33f1f2be2abe0ace56dc.scn"
+uid="uid://tvqd8080f3am"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/tile_tree.fbx"
-dest_files=["res://.godot/imported/tile_tree.fbx-bfdc63c3967b33f1f2be2abe0ace56dc.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

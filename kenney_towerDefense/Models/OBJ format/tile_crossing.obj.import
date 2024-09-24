@@ -3,11 +3,7 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
-<<<<<<< HEAD
-uid="uid://dnm7gpvfuqj53"
-=======
-uid="uid://bgqsm3skn0g2v"
->>>>>>> main
+uid="uid://vh587xe11gf0"
 path="res://.godot/imported/tile_crossing.obj-190facc30d3640457cca2412f907155c.mesh"
 
 [deps]

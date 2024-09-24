@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://d3a6kcp23n3o5"
-=======
-uid="uid://dfguslque6ims"
->>>>>>> main
+uid="uid://doh7hvv0udwlv"
 path="res://.godot/imported/tile_crossing.glb-01d8af1e85305891cfdf0a14ddabd6f9.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

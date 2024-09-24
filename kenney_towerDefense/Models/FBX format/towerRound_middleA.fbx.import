@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://1fjdbvg21eqs"
-=======
-uid="uid://cibsawcdkxbwt"
->>>>>>> main
-path="res://.godot/imported/towerRound_middleA.fbx-fcb32554ca25f10afdcca1fb946b9e6d.scn"
+uid="uid://bx4pv8d8bnqen"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/towerRound_middleA.fbx"
-dest_files=["res://.godot/imported/towerRound_middleA.fbx-fcb32554ca25f10afdcca1fb946b9e6d.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

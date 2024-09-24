@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://dehjfmk2ug0qe"
-=======
-uid="uid://dflx3hf8mux7y"
->>>>>>> main
+uid="uid://c0hy6gqkap5wr"
 path="res://.godot/imported/snow_tile_end.glb-00303e6ac32c613fc26d193fcf6a30dd.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

@@ -3,11 +3,7 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
-<<<<<<< HEAD
-uid="uid://cotqpc5n3od5o"
-=======
-uid="uid://dropv2lg8w3vu"
->>>>>>> main
+uid="uid://rswag6pveghb"
 path="res://.godot/imported/detail_crystalLarge.obj-b67b70f2a30dc2b6ef4d3c0698ea902c.mesh"
 
 [deps]

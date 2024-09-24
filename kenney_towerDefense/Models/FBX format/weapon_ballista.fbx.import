@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://ct88cgjc6ot3l"
-=======
-uid="uid://bcw42l8lnj7ow"
->>>>>>> main
-path="res://.godot/imported/weapon_ballista.fbx-d3a8a036bc9451309ffd5125a280885a.scn"
+uid="uid://3s0agx8hi8fi"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/weapon_ballista.fbx"
-dest_files=["res://.godot/imported/weapon_ballista.fbx-d3a8a036bc9451309ffd5125a280885a.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

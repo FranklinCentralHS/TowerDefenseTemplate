@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://dg6gndr3wfmkr"
-=======
-uid="uid://13c0di6xmk54"
->>>>>>> main
+uid="uid://dv8gam7g31ci4"
 path="res://.godot/imported/tile_wideCorner.glb-0864e81952a2eaade31265a57365cf60.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://k57f1epfv424"
-=======
-uid="uid://yx6b6bb0mksi"
->>>>>>> main
+uid="uid://n1cqcs14ro0y"
 path="res://.godot/imported/woodStructure.glb-f1baa689a26aad80f6093a8181858962.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

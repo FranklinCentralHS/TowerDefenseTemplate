@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://363kljggv4ki"
-=======
-uid="uid://gwbt1ldsi046"
->>>>>>> main
+uid="uid://ctk4qphtdf7nh"
 path="res://.godot/imported/snow_detail_tree.glb-b70a456483daa28f91cc2504cd86a62d.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

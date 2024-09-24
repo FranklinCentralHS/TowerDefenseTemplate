@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://df0fsygjodbd4"
-=======
-uid="uid://csucq4l3154a3"
->>>>>>> main
+uid="uid://bpy68beyuhcuq"
 path="res://.godot/imported/weapon_catapult.dae-850c48cd9dd50eba2d256011e9f43ba9.scn"
 
 [deps]

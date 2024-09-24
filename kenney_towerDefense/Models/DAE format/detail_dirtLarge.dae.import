@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://cw5hhifntjukc"
-=======
-uid="uid://dfohnvc8ry7f5"
->>>>>>> main
+uid="uid://dgs0qjt1homr6"
 path="res://.godot/imported/detail_dirtLarge.dae-9d9e10d1cc83e26b1fb8e2e9162836f6.scn"
 
 [deps]

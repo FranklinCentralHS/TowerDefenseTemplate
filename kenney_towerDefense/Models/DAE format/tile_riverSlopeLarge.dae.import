@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://b3k3fvjt6dqbt"
-=======
-uid="uid://bt4otu6sk5fue"
->>>>>>> main
+uid="uid://b32r7wo8erlmc"
 path="res://.godot/imported/tile_riverSlopeLarge.dae-0ceb384131401cc5037e6dbdb973a444.scn"
 
 [deps]

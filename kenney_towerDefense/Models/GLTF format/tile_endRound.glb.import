@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://b3gy4cevobbxe"
-=======
-uid="uid://cn3vlhrraqc4t"
->>>>>>> main
+uid="uid://bukr6rdpf1rkg"
 path="res://.godot/imported/tile_endRound.glb-1b6f1e53c1e7773af3c78accfe328fcf.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1

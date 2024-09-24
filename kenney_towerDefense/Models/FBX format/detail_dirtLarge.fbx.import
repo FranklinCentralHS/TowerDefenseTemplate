@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://cf3k653drvaas"
-=======
-uid="uid://newijglyec5b"
->>>>>>> main
-path="res://.godot/imported/detail_dirtLarge.fbx-ac4ad9ffed7db059ef6acd45be7f79ff.scn"
+uid="uid://ttd67cj4o4bk"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/detail_dirtLarge.fbx"
-dest_files=["res://.godot/imported/detail_dirtLarge.fbx-ac4ad9ffed7db059ef6acd45be7f79ff.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

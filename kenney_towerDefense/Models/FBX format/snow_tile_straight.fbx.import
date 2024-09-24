@@ -3,17 +3,12 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://cglud2erxh3v0"
-=======
-uid="uid://bp5v50ipv06we"
->>>>>>> main
-path="res://.godot/imported/snow_tile_straight.fbx-40a03f5d179f74272383795fb0e2867a.scn"
+uid="uid://bjw2yv53j3c4i"
+valid=false
 
 [deps]
 
 source_file="res://kenney_towerDefense/Models/FBX format/snow_tile_straight.fbx"
-dest_files=["res://.godot/imported/snow_tile_straight.fbx-40a03f5d179f74272383795fb0e2867a.scn"]
 
 [params]
 
@@ -36,6 +31,6 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-fbx/importer=0
+fbx/importer=1
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

@@ -3,11 +3,7 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
-<<<<<<< HEAD
-uid="uid://b7eoul58kc5uq"
-=======
-uid="uid://b1l2jjb1g16nm"
->>>>>>> main
+uid="uid://7h02yw2hfpnn"
 path="res://.godot/imported/weapon_catapult.obj-591cb2bee93b6f22936fe24bda8e6d79.mesh"
 
 [deps]

@@ -3,11 +3,7 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-<<<<<<< HEAD
-uid="uid://bhjkjbow6gkc"
-=======
-uid="uid://b045lmxw1rn7y"
->>>>>>> main
+uid="uid://ca6qpa47bsice"
 path="res://.godot/imported/tile_bump.glb-9a5f8cd8252e30a52abc2c4f035356db.scn"
 
 [deps]
@@ -36,5 +32,5 @@ animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
+gltf/naming_version=0
 gltf/embedded_image_handling=1
