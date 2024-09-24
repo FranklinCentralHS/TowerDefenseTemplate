@@ -1,0 +1,26 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+<<<<<<< HEAD
+uid="uid://cr3hkd22yxo74"
+=======
+uid="uid://cbgf6jafwkcr2"
+>>>>>>> main
+path="res://.godot/imported/snow_tile_split.obj-ba686488ed264eb1b93903b5ddd7eb46.mesh"
+
+[deps]
+
+files=["res://.godot/imported/snow_tile_split.obj-ba686488ed264eb1b93903b5ddd7eb46.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/snow_tile_split.obj"
+dest_files=["res://.godot/imported/snow_tile_split.obj-ba686488ed264eb1b93903b5ddd7eb46.mesh", "res://.godot/imported/snow_tile_split.obj-ba686488ed264eb1b93903b5ddd7eb46.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

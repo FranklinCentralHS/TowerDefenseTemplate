@@ -1,0 +1,26 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+<<<<<<< HEAD
+uid="uid://dk7wjsw5ns37b"
+=======
+uid="uid://3oqljv70psvs"
+>>>>>>> main
+path="res://.godot/imported/tile_tree.obj-421f23f90f6d9e66b535e55ef0767f90.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tile_tree.obj-421f23f90f6d9e66b535e55ef0767f90.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/tile_tree.obj"
+dest_files=["res://.godot/imported/tile_tree.obj-421f23f90f6d9e66b535e55ef0767f90.mesh", "res://.godot/imported/tile_tree.obj-421f23f90f6d9e66b535e55ef0767f90.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,26 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+<<<<<<< HEAD
+uid="uid://b0vo6obpl1ug3"
+=======
+uid="uid://dru73o7vsuecv"
+>>>>>>> main
+path="res://.godot/imported/tile_endRound.obj-5feecd9223ee82e4795d3019f0a2b2ac.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tile_endRound.obj-5feecd9223ee82e4795d3019f0a2b2ac.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/tile_endRound.obj"
+dest_files=["res://.godot/imported/tile_endRound.obj-5feecd9223ee82e4795d3019f0a2b2ac.mesh", "res://.godot/imported/tile_endRound.obj-5feecd9223ee82e4795d3019f0a2b2ac.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

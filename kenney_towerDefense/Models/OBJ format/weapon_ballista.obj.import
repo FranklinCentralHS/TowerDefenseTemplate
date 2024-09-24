@@ -1,0 +1,26 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+<<<<<<< HEAD
+uid="uid://cko7iivngemn7"
+=======
+uid="uid://dgdphis5eky1j"
+>>>>>>> main
+path="res://.godot/imported/weapon_ballista.obj-9b4775b626ca58b89eec7904d4d6efbb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/weapon_ballista.obj-9b4775b626ca58b89eec7904d4d6efbb.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/weapon_ballista.obj"
+dest_files=["res://.godot/imported/weapon_ballista.obj-9b4775b626ca58b89eec7904d4d6efbb.mesh", "res://.godot/imported/weapon_ballista.obj-9b4775b626ca58b89eec7904d4d6efbb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

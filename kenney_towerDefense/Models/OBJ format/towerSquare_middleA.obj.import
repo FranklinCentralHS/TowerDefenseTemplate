@@ -1,0 +1,26 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+<<<<<<< HEAD
+uid="uid://bju3063g08v2b"
+=======
+uid="uid://d20mf66t5w18w"
+>>>>>>> main
+path="res://.godot/imported/towerSquare_middleA.obj-ab6999c1212ef4cb20941bf2c9557f0d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/towerSquare_middleA.obj-ab6999c1212ef4cb20941bf2c9557f0d.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/towerSquare_middleA.obj"
+dest_files=["res://.godot/imported/towerSquare_middleA.obj-ab6999c1212ef4cb20941bf2c9557f0d.mesh", "res://.godot/imported/towerSquare_middleA.obj-ab6999c1212ef4cb20941bf2c9557f0d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

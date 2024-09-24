@@ -1,0 +1,26 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+<<<<<<< HEAD
+uid="uid://cvaec435qdv6c"
+=======
+uid="uid://bb6uy2cxp2nb4"
+>>>>>>> main
+path="res://.godot/imported/tile_cornerRound.obj-40d421213402c8972b9c9afb82227fae.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tile_cornerRound.obj-40d421213402c8972b9c9afb82227fae.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/tile_cornerRound.obj"
+dest_files=["res://.godot/imported/tile_cornerRound.obj-40d421213402c8972b9c9afb82227fae.mesh", "res://.godot/imported/tile_cornerRound.obj-40d421213402c8972b9c9afb82227fae.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

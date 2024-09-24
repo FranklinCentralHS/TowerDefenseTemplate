@@ -1,0 +1,26 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+<<<<<<< HEAD
+uid="uid://c226uqy0giyvn"
+=======
+uid="uid://cngyeys20874f"
+>>>>>>> main
+path="res://.godot/imported/woodStructure.obj-73b644b94558ee44ca8cb00650b41059.mesh"
+
+[deps]
+
+files=["res://.godot/imported/woodStructure.obj-73b644b94558ee44ca8cb00650b41059.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/woodStructure.obj"
+dest_files=["res://.godot/imported/woodStructure.obj-73b644b94558ee44ca8cb00650b41059.mesh", "res://.godot/imported/woodStructure.obj-73b644b94558ee44ca8cb00650b41059.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

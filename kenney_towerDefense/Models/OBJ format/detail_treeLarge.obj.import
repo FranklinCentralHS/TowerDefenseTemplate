@@ -1,0 +1,26 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+<<<<<<< HEAD
+uid="uid://ca6hwdsim5stv"
+=======
+uid="uid://roltc3rdldsc"
+>>>>>>> main
+path="res://.godot/imported/detail_treeLarge.obj-4affc4fc125b64b2485df5a7b5a96fbf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/detail_treeLarge.obj-4affc4fc125b64b2485df5a7b5a96fbf.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/detail_treeLarge.obj"
+dest_files=["res://.godot/imported/detail_treeLarge.obj-4affc4fc125b64b2485df5a7b5a96fbf.mesh", "res://.godot/imported/detail_treeLarge.obj-4affc4fc125b64b2485df5a7b5a96fbf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,26 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+<<<<<<< HEAD
+uid="uid://txrsf6yjwta7"
+=======
+uid="uid://dcivx1lrumuh5"
+>>>>>>> main
+path="res://.godot/imported/detail_rocksLarge.obj-5bc79ab49702a273c598ac226f0e3b8d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/detail_rocksLarge.obj-5bc79ab49702a273c598ac226f0e3b8d.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/detail_rocksLarge.obj"
+dest_files=["res://.godot/imported/detail_rocksLarge.obj-5bc79ab49702a273c598ac226f0e3b8d.mesh", "res://.godot/imported/detail_rocksLarge.obj-5bc79ab49702a273c598ac226f0e3b8d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

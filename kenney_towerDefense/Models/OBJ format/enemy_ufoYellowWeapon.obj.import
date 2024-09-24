@@ -1,0 +1,26 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+<<<<<<< HEAD
+uid="uid://brirdmxsehkcw"
+=======
+uid="uid://cnqf5wt45tf5h"
+>>>>>>> main
+path="res://.godot/imported/enemy_ufoYellowWeapon.obj-c071e853b387828fef8e93dd3fd9a238.mesh"
+
+[deps]
+
+files=["res://.godot/imported/enemy_ufoYellowWeapon.obj-c071e853b387828fef8e93dd3fd9a238.mesh"]
+
+source_file="res://kenney_towerDefense/Models/OBJ format/enemy_ufoYellowWeapon.obj"
+dest_files=["res://.godot/imported/enemy_ufoYellowWeapon.obj-c071e853b387828fef8e93dd3fd9a238.mesh", "res://.godot/imported/enemy_ufoYellowWeapon.obj-c071e853b387828fef8e93dd3fd9a238.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
