@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://cqnxiwncrni3r"
+=======
+uid="uid://pjp5ovkglyn8"
+>>>>>>> main
 path="res://.godot/imported/tile_riverSlope.fbx-d872bfc9bfd5f41207c7231711d718fb.scn"
 
 [deps]

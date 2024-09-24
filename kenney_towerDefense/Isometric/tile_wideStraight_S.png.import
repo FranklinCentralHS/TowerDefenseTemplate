@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://crdif0ahuk1lf"
+=======
+uid="uid://bn8ymgaufewbu"
+>>>>>>> main
 path="res://.godot/imported/tile_wideStraight_S.png-279815bc076d5d5bcf58cd4b2831c8e9.ctex"
 metadata={
 "vram_texture": false

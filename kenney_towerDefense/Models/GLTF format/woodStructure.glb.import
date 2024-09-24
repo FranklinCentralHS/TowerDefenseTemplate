@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://k57f1epfv424"
+=======
+uid="uid://yx6b6bb0mksi"
+>>>>>>> main
 path="res://.godot/imported/woodStructure.glb-f1baa689a26aad80f6093a8181858962.scn"
 
 [deps]

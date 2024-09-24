@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://ds1d4u7sqfmx8"
+=======
+uid="uid://bc4ucmvn65wf3"
+>>>>>>> main
 path="res://.godot/imported/weapon_cannon.fbx-c06b863dc1c017c5132442859fea06a7.scn"
 
 [deps]

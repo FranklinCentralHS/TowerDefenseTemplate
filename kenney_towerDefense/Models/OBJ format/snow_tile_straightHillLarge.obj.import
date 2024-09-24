@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://4mr4q4tqn4lf"
+=======
+uid="uid://c0iokanhbifmo"
+>>>>>>> main
 path="res://.godot/imported/snow_tile_straightHillLarge.obj-6f69a6bf658250ace85f197c94172915.mesh"
 
 [deps]

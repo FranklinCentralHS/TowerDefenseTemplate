@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://8n1fmynqrtib"
+=======
+uid="uid://bw62rnccw66wh"
+>>>>>>> main
 path="res://.godot/imported/tile_riverSlopeLarge_E.png-2c44477d99e069882f7ac2c203016b07.ctex"
 metadata={
 "vram_texture": false

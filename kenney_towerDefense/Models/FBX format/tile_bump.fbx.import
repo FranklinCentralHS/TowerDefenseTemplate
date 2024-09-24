@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://pxdtungfjh2a"
+=======
+uid="uid://y3757awpug58"
+>>>>>>> main
 path="res://.godot/imported/tile_bump.fbx-e2b94acb2d64cf750e89a086dbf2d2de.scn"
 
 [deps]

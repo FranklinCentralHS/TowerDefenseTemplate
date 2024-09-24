@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://btxfqxxnxd0o2"
+=======
+uid="uid://mgh1fxnu1a11"
+>>>>>>> main
 path="res://.godot/imported/tile_bump.obj-f2a035eb7a55a2a2b2f57156e830eaba.mesh"
 
 [deps]

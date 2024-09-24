@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://ed2lhfqaeja3"
+=======
+uid="uid://cqq8d0rjigg4w"
+>>>>>>> main
 path="res://.godot/imported/weapon_catapult_E.png-dc9a7fc3f54678ca79916e2defb9a9bf.ctex"
 metadata={
 "vram_texture": false

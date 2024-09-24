@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://kvruh2c7oq5n"
+=======
+uid="uid://mwjjf8pn8608"
+>>>>>>> main
 path="res://.godot/imported/tile_hill.fbx-a7e8c397bfe3efed1042baeaf8999319.scn"
 
 [deps]

@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://yhjqy3fhsarf"
+=======
+uid="uid://c7aulp1cgns3i"
+>>>>>>> main
 path="res://.godot/imported/snow_tile_endRound.obj-3f90c6f71cdb1aab9771d843c3fd647d.mesh"
 
 [deps]

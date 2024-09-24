@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://bwjiy5vcuymr8"
+=======
+uid="uid://dssvhnceu8p58"
+>>>>>>> main
 path="res://.godot/imported/tile_cornerRound.fbx-40650351279dead86690d12134b1459f.scn"
 
 [deps]

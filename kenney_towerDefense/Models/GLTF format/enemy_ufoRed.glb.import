@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://gjcasrqw2pnc"
+=======
+uid="uid://hmh5ed2il06"
+>>>>>>> main
 path="res://.godot/imported/enemy_ufoRed.glb-ed8897a20bcd45842349afee31e86d3f.scn"
 
 [deps]

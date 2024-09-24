@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://ejpnsn4ueidw"
+=======
+uid="uid://cr0ig6838cqc5"
+>>>>>>> main
 path="res://.godot/imported/tile_split.dae-77a75e23acb7dcebadffda1d9148bc6f.scn"
 
 [deps]

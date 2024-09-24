@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://doewc2glyq8lv"
+=======
+uid="uid://w8xhfrnfx8m5"
+>>>>>>> main
 path="res://.godot/imported/weapon_blaster_W.png-db4dd4f9c627f9816e5537115b113d27.ctex"
 metadata={
 "vram_texture": false

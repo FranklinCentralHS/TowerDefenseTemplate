@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://bf3072kck8t22"
+=======
+uid="uid://6uykwxo1ujd0"
+>>>>>>> main
 path="res://.godot/imported/snow_tile_riverCorner.dae-0493157afa9103ea0efb6fdbf8738aac.scn"
 
 [deps]

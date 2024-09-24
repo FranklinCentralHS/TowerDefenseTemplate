@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bq2g63dtxrmc"
+=======
+uid="uid://cj0fr2xhudjsr"
+>>>>>>> main
 path="res://.godot/imported/tile_slope_S.png-83889717f147270f4b4c216be258580f.ctex"
 metadata={
 "vram_texture": false

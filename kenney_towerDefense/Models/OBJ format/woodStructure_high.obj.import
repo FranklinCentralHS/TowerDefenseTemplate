@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://bc7b7ro7tot36"
+=======
+uid="uid://dwperav1xdiiy"
+>>>>>>> main
 path="res://.godot/imported/woodStructure_high.obj-d65d45d240ea9846a8907ed14e5a8752.mesh"
 
 [deps]

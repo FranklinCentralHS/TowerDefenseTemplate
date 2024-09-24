@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bufng5h7paqvr"
+=======
+uid="uid://c3qpxd1l7qs0c"
+>>>>>>> main
 path="res://.godot/imported/weapon_ballista_N.png-ed1b0339356a192546806b4565eeade3.ctex"
 metadata={
 "vram_texture": false

@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://defvyecw85pt6"
+=======
+uid="uid://bwbf65e8bcgq1"
+>>>>>>> main
 path="res://.godot/imported/tile_crystal.fbx-ed57abda2670d6350046b049c48f59e1.scn"
 
 [deps]

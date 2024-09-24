@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://d3igro72xpat5"
+=======
+uid="uid://dr4e47jr2a0d2"
+>>>>>>> main
 path="res://.godot/imported/detail_crystal.glb-bb847d8000e575c17efbe221ba7422d0.scn"
 
 [deps]

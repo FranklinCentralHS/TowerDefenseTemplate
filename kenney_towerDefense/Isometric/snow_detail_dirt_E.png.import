@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://58b0e768o5io"
+=======
+uid="uid://bb23owosel34e"
+>>>>>>> main
 path="res://.godot/imported/snow_detail_dirt_E.png-51abb8624653d040df20472d568c3eec.ctex"
 metadata={
 "vram_texture": false

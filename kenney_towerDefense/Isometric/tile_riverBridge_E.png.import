@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://d372h1ao3wxqm"
+=======
+uid="uid://dkavuu5dhyn3k"
+>>>>>>> main
 path="res://.godot/imported/tile_riverBridge_E.png-3944965260663d7ddb4119f714288e15.ctex"
 metadata={
 "vram_texture": false

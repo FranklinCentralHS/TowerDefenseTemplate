@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://21k3os1tfghf"
+=======
+uid="uid://7fxkkvkglmrv"
+>>>>>>> main
 path="res://.godot/imported/enemy_ufoRed.obj-c4b77992a6870a3e1f65ce422151c9ca.mesh"
 
 [deps]

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cssbh1y6p2iah"
+=======
+uid="uid://cobqjv7ur83ht"
+>>>>>>> main
 path="res://.godot/imported/tile_spawn.png-87a652eb7b947aaca49d450d47f11a5f.ctex"
 metadata={
 "vram_texture": false

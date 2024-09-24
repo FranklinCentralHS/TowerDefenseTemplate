@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://cdxsjswg7l3pn"
+=======
+uid="uid://ct7gnylqjmqx1"
+>>>>>>> main
 path="res://.godot/imported/snow_tile_crossing.dae-d9d1ce5099a35f365168b0173920ec33.scn"
 
 [deps]

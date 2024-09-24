@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://bke8hmu44rpbt"
+=======
+uid="uid://c8ygt3tvoemeh"
+>>>>>>> main
 path="res://.godot/imported/snow_detail_tree.obj-51f1be6c147ff3fcf58d94759cac4349.mesh"
 
 [deps]

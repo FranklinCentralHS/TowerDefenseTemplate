@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://v02v57mmioxi"
+=======
+uid="uid://d3jlo0ienokor"
+>>>>>>> main
 path="res://.godot/imported/snow_tile_spawnRound.glb-8ff4ebe550eb694c8c0ee0fcf37c75f1.scn"
 
 [deps]

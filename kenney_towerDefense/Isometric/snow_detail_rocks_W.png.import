@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://c1ypcjnb5x8qu"
+=======
+uid="uid://bukfck400fanw"
+>>>>>>> main
 path="res://.godot/imported/snow_detail_rocks_W.png-5bcdd6e09b67677082a076a3b7ab5dee.ctex"
 metadata={
 "vram_texture": false

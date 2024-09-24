@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://ddns2nlhfgum4"
+=======
+uid="uid://dl2kmeewku1kl"
+>>>>>>> main
 path="res://.godot/imported/detail_treeLarge.dae-4a528225aeedf4e7f90584be2beae930.scn"
 
 [deps]

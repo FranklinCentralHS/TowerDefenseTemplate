@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://dkivuler6a7a7"
+=======
+uid="uid://c701yf3ghknlb"
+>>>>>>> main
 path="res://.godot/imported/detail_rocks.glb-6d824fb16a4b5d9c241a7b023b4fee1e.scn"
 
 [deps]

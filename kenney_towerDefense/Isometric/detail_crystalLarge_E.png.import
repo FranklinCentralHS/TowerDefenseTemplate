@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cy7x5heq73oyd"
+=======
+uid="uid://cgjrel6cmfblg"
+>>>>>>> main
 path="res://.godot/imported/detail_crystalLarge_E.png-ecb53e5c9d38e393aea8521e55b025e8.ctex"
 metadata={
 "vram_texture": false

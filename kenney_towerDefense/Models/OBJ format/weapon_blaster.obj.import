@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://cor0hokkgpma3"
+=======
+uid="uid://bymnr5j13pg61"
+>>>>>>> main
 path="res://.godot/imported/weapon_blaster.obj-ac5ccbc28241cae8e0f26c994f690ce2.mesh"
 
 [deps]

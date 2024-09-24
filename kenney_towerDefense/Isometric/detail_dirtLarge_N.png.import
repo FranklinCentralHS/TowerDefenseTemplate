@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://g6eheaiwvoce"
+=======
+uid="uid://crxw265myihtn"
+>>>>>>> main
 path="res://.godot/imported/detail_dirtLarge_N.png-86a57bcf37b0b2b4c910cef5534d1c40.ctex"
 metadata={
 "vram_texture": false

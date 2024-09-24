@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://dxxmqprn13r7f"
+=======
+uid="uid://bswqbn4t8q5"
+>>>>>>> main
 path="res://.godot/imported/towerSquare_roofC.dae-8dd95eae1bca71a7ddf5daae821f10a7.scn"
 
 [deps]

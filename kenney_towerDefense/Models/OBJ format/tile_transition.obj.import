@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://bwt1wsgva6rvv"
+=======
+uid="uid://cpi1fugird6dh"
+>>>>>>> main
 path="res://.godot/imported/tile_transition.obj-170e1dc4858bc74fef06671217fdcd8f.mesh"
 
 [deps]

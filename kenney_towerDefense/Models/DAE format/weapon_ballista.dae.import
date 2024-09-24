@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://baxjdc71hluhc"
+=======
+uid="uid://dbimonhj43hrs"
+>>>>>>> main
 path="res://.godot/imported/weapon_ballista.dae-34f45c1fc51a4455b5c8739c3f006fab.scn"
 
 [deps]

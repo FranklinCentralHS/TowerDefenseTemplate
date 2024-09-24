@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://clqo44funupb3"
+=======
+uid="uid://cnnlhsmwbx4s5"
+>>>>>>> main
 path="res://.godot/imported/snow_tile_spawnRound_W.png-4c85a7bc90cbf56098381fd6c00ee922.ctex"
 metadata={
 "vram_texture": false

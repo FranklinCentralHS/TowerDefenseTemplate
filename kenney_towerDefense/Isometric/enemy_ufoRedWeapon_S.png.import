@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cpl7t6j6ngyt0"
+=======
+uid="uid://och8kcrvn2ci"
+>>>>>>> main
 path="res://.godot/imported/enemy_ufoRedWeapon_S.png-7f720f3c5e6856b849804826baef33a8.ctex"
 metadata={
 "vram_texture": false

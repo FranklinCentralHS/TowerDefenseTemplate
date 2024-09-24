@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://6p61v5sfouvf"
+=======
+uid="uid://bw4rfsa26veq"
+>>>>>>> main
 path="res://.godot/imported/towerSquare_sampleF.obj-ce648c7b0908113240ac5d6e5dac0489.mesh"
 
 [deps]

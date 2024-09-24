@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cacwmddupd0r1"
+=======
+uid="uid://co0rxg3ww34gx"
+>>>>>>> main
 path="res://.godot/imported/tile_bump_N.png-94dd38c25c0b4150d3e8c52115cc5299.ctex"
 metadata={
 "vram_texture": false

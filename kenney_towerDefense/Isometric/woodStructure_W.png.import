@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cjvh05uvxjkfn"
+=======
+uid="uid://bmot5sh8etixc"
+>>>>>>> main
 path="res://.godot/imported/woodStructure_W.png-ab4f0a6a64dd9a975835202242721387.ctex"
 metadata={
 "vram_texture": false

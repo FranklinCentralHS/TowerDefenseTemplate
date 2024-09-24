@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bcagptjb0ntvd"
+=======
+uid="uid://bjbf1kbo0glys"
+>>>>>>> main
 path="res://.godot/imported/snow_tile_wideTransition_S.png-64415958a25ca29019035db4b5f2d335.ctex"
 metadata={
 "vram_texture": false

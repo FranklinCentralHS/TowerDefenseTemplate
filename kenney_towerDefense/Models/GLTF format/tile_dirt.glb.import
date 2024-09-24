@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://bb7qx4ob18iax"
+=======
+uid="uid://ppgw2l3o0dov"
+>>>>>>> main
 path="res://.godot/imported/tile_dirt.glb-d3cbbb9fe0bf076bcb910560bfefebeb.scn"
 
 [deps]

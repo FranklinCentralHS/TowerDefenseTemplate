@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://cfndasi5e6375"
+=======
+uid="uid://cqi41dnjnu0kq"
+>>>>>>> main
 path="res://.godot/imported/tile_riverBridge.fbx-e24144a4abc1311e03d78bcd21097490.scn"
 
 [deps]

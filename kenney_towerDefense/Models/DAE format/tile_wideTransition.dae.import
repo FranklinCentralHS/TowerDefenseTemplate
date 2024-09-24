@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://c17n7hvrvlhia"
+=======
+uid="uid://cqwyv4eu7etat"
+>>>>>>> main
 path="res://.godot/imported/tile_wideTransition.dae-b1e57c09275a239caae97eb2bc452b91.scn"
 
 [deps]

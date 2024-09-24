@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://c7nwxw1vrmp8h"
+=======
+uid="uid://0fkupktu6rig"
+>>>>>>> main
 path="res://.godot/imported/tile_endRoundSpawn_W.png-a0e0e76ec2eb338725a5fbc793d09dd3.ctex"
 metadata={
 "vram_texture": false

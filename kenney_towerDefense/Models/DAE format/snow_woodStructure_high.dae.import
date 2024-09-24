@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://b51hdij1guqf8"
+=======
+uid="uid://cqq7w1wsumf04"
+>>>>>>> main
 path="res://.godot/imported/snow_woodStructure_high.dae-b9b77fd573785f71f7b52f6a56eb77b0.scn"
 
 [deps]

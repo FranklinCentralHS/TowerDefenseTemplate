@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://dy70rv3pwbvtq"
+=======
+uid="uid://hasmrmdm0og"
+>>>>>>> main
 path="res://.godot/imported/tile_wideCorner.fbx-fc4b69c983ce60fc9d2944cbe3f23858.scn"
 
 [deps]

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dh8rs54yhrq1r"
+=======
+uid="uid://bp2f7vw2atikh"
+>>>>>>> main
 path="res://.godot/imported/snow_tile_hill_W.png-3db9d9484d7544c04dcef6add7ae0246.ctex"
 metadata={
 "vram_texture": false

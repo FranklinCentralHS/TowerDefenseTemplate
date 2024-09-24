@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://b44fmwxcun6g8"
+=======
+uid="uid://1c83e1wbejkq"
+>>>>>>> main
 path="res://.godot/imported/towerSquare_topB_S.png-9b7bc72c9cca671ab2aa7d947377c9ae.ctex"
 metadata={
 "vram_texture": false

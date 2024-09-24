@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://bnmo6185cyrwd"
+=======
+uid="uid://co6bo22yay0xm"
+>>>>>>> main
 path="res://.godot/imported/snow_tile_treeQuad.dae-c227698a91bf6c075e5581202d01dccf.scn"
 
 [deps]

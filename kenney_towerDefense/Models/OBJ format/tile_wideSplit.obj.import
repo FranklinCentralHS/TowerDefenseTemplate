@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://d3xv81qh1ibmx"
+=======
+uid="uid://ycl3k5lmpd78"
+>>>>>>> main
 path="res://.godot/imported/tile_wideSplit.obj-a2d658241e54c6d4dc3b83e5a86ad0c1.mesh"
 
 [deps]

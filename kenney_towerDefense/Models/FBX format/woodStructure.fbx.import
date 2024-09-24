@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://ct01pulo1w2f8"
+=======
+uid="uid://babm2xnaewdd4"
+>>>>>>> main
 path="res://.godot/imported/woodStructure.fbx-aca0a90a55944775590e4ebdcbdc43c6.scn"
 
 [deps]

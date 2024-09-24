@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://ccs6yxi53egw3"
+=======
+uid="uid://bwmskxi4aiwdr"
+>>>>>>> main
 path="res://.godot/imported/snow_tile_riverTransition.fbx-a56040c94dff70a3b7f7e60ce0a0a446.scn"
 
 [deps]

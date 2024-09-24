@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://b07cfb8owsp5o"
+=======
+uid="uid://b8ahkgrm0qur2"
+>>>>>>> main
 path="res://.godot/imported/snow_tile_cornerRound.png-9cb6e534bf60fa1d966c0efc45fb8b1e.ctex"
 metadata={
 "vram_texture": false

@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://bqgytvprnanf0"
+=======
+uid="uid://ceyps60kjjknn"
+>>>>>>> main
 path="res://.godot/imported/tile_straightHillLarge.glb-f46b15959fe12d2190da7c632aad3afc.scn"
 
 [deps]

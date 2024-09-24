@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://0jxa55uec3j7"
+=======
+uid="uid://ccsqswcotkrgk"
+>>>>>>> main
 path="res://.godot/imported/snow_detail_crystal.fbx-c4b8607d7f8fbc7036b94b6090a55fe2.scn"
 
 [deps]

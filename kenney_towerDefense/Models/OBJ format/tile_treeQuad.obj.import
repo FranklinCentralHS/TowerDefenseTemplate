@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://c2mpl7n400igw"
+=======
+uid="uid://ca4la22hlto1k"
+>>>>>>> main
 path="res://.godot/imported/tile_treeQuad.obj-076fce3efb8b143e29c7693237fa667c.mesh"
 
 [deps]

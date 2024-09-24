@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://ccannha420xau"
+=======
+uid="uid://0lns5tciaaxd"
+>>>>>>> main
 path="res://.godot/imported/snow_detail_dirt.obj-0e681afc450c7f96bb8079db7b8d4275.mesh"
 
 [deps]

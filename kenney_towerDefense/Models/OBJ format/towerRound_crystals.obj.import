@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://boysmgrd0fpst"
+=======
+uid="uid://hf50w47dtn32"
+>>>>>>> main
 path="res://.godot/imported/towerRound_crystals.obj-87b01b68a748eac4226bf68dd366f78d.mesh"
 
 [deps]

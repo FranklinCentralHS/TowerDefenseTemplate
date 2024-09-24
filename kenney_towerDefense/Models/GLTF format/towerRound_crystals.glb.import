@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://b81eqgjlohuxa"
+=======
+uid="uid://bcpwurncdtcla"
+>>>>>>> main
 path="res://.godot/imported/towerRound_crystals.glb-07af912617fa99875c08aa0c58de5349.scn"
 
 [deps]

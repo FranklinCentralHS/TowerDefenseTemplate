@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://cceus3bad1ee5"
+=======
+uid="uid://bc406681klmyj"
+>>>>>>> main
 path="res://.godot/imported/snow_tile_bump.glb-e23944c11a718d2f69583c684de38d1c.scn"
 
 [deps]

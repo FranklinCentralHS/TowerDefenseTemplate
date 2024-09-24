@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://buxr3n22s2ye0"
+=======
+uid="uid://v02l2r3p2155"
+>>>>>>> main
 path="res://.godot/imported/tile_spawnRound.glb-d853e334095f59f4901dfa87b3e80be6.scn"
 
 [deps]

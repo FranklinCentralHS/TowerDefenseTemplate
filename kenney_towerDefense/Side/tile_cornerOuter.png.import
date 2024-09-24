@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cijc75favic56"
+=======
+uid="uid://bxr14fghaqiw2"
+>>>>>>> main
 path="res://.godot/imported/tile_cornerOuter.png-6c714a10201b3f32c061ad60a5ae0aff.ctex"
 metadata={
 "vram_texture": false
