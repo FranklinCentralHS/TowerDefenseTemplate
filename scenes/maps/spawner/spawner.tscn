@@ -6,8 +6,13 @@
 [node name="Spawner" type="Node2D"]
 z_index = 10
 script = ExtResource("1_hhcuf")
-spawn_rate = 3.0
-enemy_count = 40
+enemies = {
+"helicopter": 5,
+"infantry_t1": 0,
+"infantry_t2": 0,
+"infantry_t3": 15,
+"tank": 15
+}
 
 [node name="SpawnsContainer" type="Node2D" parent="."]
 

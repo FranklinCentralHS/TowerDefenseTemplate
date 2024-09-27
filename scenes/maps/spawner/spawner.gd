@@ -24,8 +24,9 @@ const INITIAL_WAIT := 5.0  # amount of seconds to wait before starting a wave
 @export_range(1, 100) var spawn_count: int = 3:  # number of spawn locations (Marker2Ds)
 	set = set_spawn_count
 @export var enemies: Dictionary = {
-	"infantry_t1": 45,  # higher probability of spawn
-	"infantry_t2": 40,
+	"infantry_t1": 0,  # higher probability of spawn
+	"infantry_t2": 0,
+	"infantry_t3": 100,
 	"tank": 15,
 	"helicopter": 5,
 }

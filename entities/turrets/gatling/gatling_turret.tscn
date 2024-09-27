@@ -170,7 +170,7 @@ animations = [{
 "speed": 12.0
 }]
 
-[sub_resource type="CircleShape2D" id="CircleShape2D_apvmj"]
+[sub_resource type="CircleShape2D" id="CircleShape2D_cv7v2"]
 radius = 700.0
 
 [node name="GatlingTurret" instance=ExtResource("1_yb6wj")]
@@ -186,12 +186,12 @@ rot_speed = 15.0
 projectile_count = 6
 projectile_type = ExtResource("2_70bac")
 projectile_spread = 0.08
-projectile_damage = 3
+projectile_damage = 5
 
 [node name="Gun" parent="Shooter" index="0"]
 position = Vector2(3, 0)
 sprite_frames = SubResource("SpriteFrames_v3a16")
-frame_progress = 0.970164
+frame_progress = 0.603828
 offset = Vector2(10, 1)
 
 [node name="Muzzle" parent="Shooter/Gun" index="0"]
@@ -215,13 +215,17 @@ position = Vector2(82, 20)
 [node name="MuzzleFlash" parent="Shooter" index="1"]
 position = Vector2(93, 1)
 sprite_frames = SubResource("SpriteFrames_r51ql")
-frame_progress = 0.324759
+frame_progress = 0.958422
+
+[node name="Detector" parent="Shooter" index="2"]
+collision_mask = 33
 
 [node name="CollisionShape2D" parent="Shooter/Detector" index="0"]
-shape = SubResource("CircleShape2D_apvmj")
+shape = SubResource("CircleShape2D_cv7v2")
 
 [node name="LookAhead" parent="Shooter" index="3"]
 target_position = Vector2(750, 0)
+collision_mask = 33
 
 [connection signal="animation_looped" from="Shooter/Gun" to="Shooter" method="_on_gun_animation_looped"]
 
