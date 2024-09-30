@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://bwldkqee7h4rq"]
+
+[ext_resource type="Texture2D" uid="uid://cja56r1dabgba" path="res://PNG/Default size/towerDefense_tile250.png" id="1_8ngv4"]
+[ext_resource type="Script" path="res://Towers/RedTowerPanel.gd" id="1_ug41n"]
+
+[node name="RedTowerPanel" type="Panel"]
+custom_minimum_size = Vector2(50, 50)
+offset_right = 64.0
+offset_bottom = 64.0
+script = ExtResource("1_ug41n")
+
+[node name="TowerDefenseTile250" type="Sprite2D" parent="."]
+position = Vector2(32, 32)
+scale = Vector2(1, 1)
+texture = ExtResource("1_8ngv4")
+
+[connection signal="gui_input" from="." to="." method="_on_gui_input"]
