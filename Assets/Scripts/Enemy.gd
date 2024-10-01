@@ -1,6 +1,9 @@
 extends characterBody2D
 class_name Enemy
-#all Enemy's will have this
+#all Enemy's will have this provided they have [extends Enemy]
+
+#variables
+#@export creates visability in the inspector in scenes that use them
 @export var hp = 10
 @export var speed = 50
 @export var damage = 10
@@ -8,6 +11,7 @@ class_name Enemy
 @export var Name = "enemy"
 @export var canBeHit ="true" 
 
+#movement math finds shortest path to the end and takes it
 var accel = 7
 @onready var nav: NavigationAgent2D = $NavigationAgent2D
 func _process(delta):

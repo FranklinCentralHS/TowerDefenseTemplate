@@ -1,0 +1,27 @@
+[gd_scene load_steps=4 format=3 uid="uid://b2t6yvk8rudfn"]
+
+[ext_resource type="Script" path="res://Assets/Scripts/tower_a.gd" id="1_ful6j"]
+[ext_resource type="Texture2D" uid="uid://da1y00p3ptjjs" path="res://Assets/Sprites/Exported (usable)/Turrets (Ninjas)/Screen Shot 2024-09-17 at 7.21.04 PM.png" id="1_mnqa0"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_axlws"]
+radius = 17.0294
+
+[node name="TowerA" type="Node2D"]
+script = ExtResource("1_ful6j")
+
+[node name="t1" type="Sprite2D" parent="."]
+position = Vector2(-1.52588e-05, -17)
+scale = Vector2(0.412356, 0.410714)
+texture = ExtResource("1_mnqa0")
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(0, -18)
+shape = SubResource("CircleShape2D_axlws")
+
+[node name="NavigationObstacle2D" type="NavigationObstacle2D" parent="."]
+position = Vector2(0, -15)
+radius = 77.38
+affect_navigation_mesh = true
+carve_navigation_mesh = true

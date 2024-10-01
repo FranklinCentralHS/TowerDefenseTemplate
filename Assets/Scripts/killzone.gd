@@ -1,6 +1,8 @@
 extends Area2D
 
-var health=GlobalVariable.health
+
+#Ends game if 1100 damage in enemies gets trough
+var health=100
 
 func _on_body_entered(body):
 	health-=body.damage

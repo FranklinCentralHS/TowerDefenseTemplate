@@ -8,8 +8,6 @@ size = Vector2(20, 295)
 [node name="killzone" type="Area2D"]
 script = ExtResource("1_g55e4")
 
-[node name="Timer" type="Timer" parent="."]
-
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(27, 0)
 shape = SubResource("RectangleShape2D_11ja2")

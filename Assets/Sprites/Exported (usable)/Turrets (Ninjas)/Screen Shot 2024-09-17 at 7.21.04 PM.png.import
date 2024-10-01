@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://da1y00p3ptjjs"
+path="res://.godot/imported/Screen Shot 2024-09-17 at 7.21.04 PM.png-a9c34bd32d7b73407dbced17b6fdbc21.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Assets/Sprites/Exported (usable)/Turrets (Ninjas)/Screen Shot 2024-09-17 at 7.21.04 PM.png"
+dest_files=["res://.godot/imported/Screen Shot 2024-09-17 at 7.21.04 PM.png-a9c34bd32d7b73407dbced17b6fdbc21.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1
