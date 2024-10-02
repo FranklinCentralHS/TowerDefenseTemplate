@@ -22,4 +22,3 @@ GlobalVariable="*res://Assets/Scripts/global_variable.gd"
 [display]
 
 window/size/viewport_width=1150
-window/size/mode=3

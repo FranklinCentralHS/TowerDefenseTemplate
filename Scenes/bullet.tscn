@@ -1,0 +1,40 @@
+[gd_scene load_steps=7 format=3 uid="uid://0fa8ntv00xh7"]
+
+[ext_resource type="Script" path="res://Assets/Scripts/bullet.gd" id="1_6ytt1"]
+[ext_resource type="Texture2D" uid="uid://mdmkmormng7i" path="res://Assets/Sprites/Exported (usable)/Projectiles/shuriken.png" id="1_smeyd"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_5k7iv"]
+radius = 3.0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_uxggh"]
+atlas = ExtResource("1_smeyd")
+region = Rect2(0, 0, 8, 8)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_cr4bo"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_uxggh")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_u8fxg"]
+radius = 3.16228
+
+[node name="Bullet" type="CharacterBody2D"]
+script = ExtResource("1_6ytt1")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_5k7iv")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+texture_filter = 1
+sprite_frames = SubResource("SpriteFrames_cr4bo")
+
+[node name="Bullet" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Bullet"]
+shape = SubResource("CircleShape2D_u8fxg")

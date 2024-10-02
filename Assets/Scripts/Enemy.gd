@@ -1,4 +1,4 @@
-extends characterBody2D
+extends PathFollow2D
 class_name Enemy
 #all Enemy's will have this provided they have [extends Enemy]
 
@@ -7,19 +7,19 @@ class_name Enemy
 @export var hp = 10
 @export var speed = 50
 @export var damage = 10
-@export var canFly = "false"
-@export var Name = "enemy"
-@export var canBeHit ="true" 
 
-#movement math finds shortest path to the end and takes it
-var accel = 7
-@onready var nav: NavigationAgent2D = $NavigationAgent2D
 func _process(delta):
-	var direction = Vector3()
-	nav.target_position = Vector2(1250, 477)
+	self.set_progress(self.get_progress() + self.speed * delta)
 
-	direction = nav.get_next_path_position()-global_position
-	direction =direction.normalized()
-	
-	velocity = velocity.lerp(direction*speed*2,accel*delta)
-	move_and_slide()
+	if self.progress_ratio > 0.99:
+		print("remove enemy")
+		self.get_parent().remove_child(self)
+
+
+func _on_bat_area_entered(area):
+	if area.name == "Bullet":
+		var parent = self.get_parent()
+		if parent != null:
+			parent.remove_child(self)
+
+	print(area.name)
