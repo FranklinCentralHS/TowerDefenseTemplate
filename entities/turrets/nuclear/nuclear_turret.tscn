@@ -1,0 +1,325 @@
+[gd_scene load_steps=55 format=3 uid="uid://k5tvefof6kvj"]
+
+[ext_resource type="PackedScene" uid="uid://q3ewy63w2x0m" path="res://entities/turrets/turret.tscn" id="1_jbpwt"]
+[ext_resource type="PackedScene" uid="uid://d0i8efn2ow88m" path="res://entities/projectiles/nuclear/nuclear_missile.tscn" id="2_jmvpr"]
+[ext_resource type="Texture2D" uid="uid://op4nyoe0a3da" path="res://entities/turrets/missile/assets/textures/gun_die_00.png" id="3_00eq4"]
+[ext_resource type="Texture2D" uid="uid://d3a2upii6nmgs" path="res://entities/turrets/missile/assets/textures/gun_die_01.png" id="4_3s5ks"]
+[ext_resource type="Texture2D" uid="uid://dnc1j7qaftg2b" path="res://entities/turrets/missile/assets/textures/gun_die_02.png" id="5_twl2s"]
+[ext_resource type="Texture2D" uid="uid://bns88pmt8q4ok" path="res://entities/turrets/missile/assets/textures/gun_die_03.png" id="6_nhpr2"]
+[ext_resource type="Texture2D" uid="uid://dch8l48cxwwr" path="res://entities/turrets/missile/assets/textures/gun_die_04.png" id="7_b3aj2"]
+[ext_resource type="Texture2D" uid="uid://c7ea7f0onu6gr" path="res://entities/turrets/missile/assets/textures/gun_die_05.png" id="8_lokyw"]
+[ext_resource type="Texture2D" uid="uid://bso465jc5qg76" path="res://entities/turrets/missile/assets/textures/gun_die_06.png" id="9_15vi2"]
+[ext_resource type="Texture2D" uid="uid://cnuidj833fkn3" path="res://entities/turrets/missile/assets/textures/gun_die_07.png" id="10_ft27j"]
+[ext_resource type="Texture2D" uid="uid://camv76j8qc4lb" path="res://entities/turrets/missile/assets/textures/gun_die_08.png" id="11_4ukmb"]
+[ext_resource type="Texture2D" uid="uid://d2qysp2x583yo" path="res://entities/turrets/missile/assets/textures/gun_die_09.png" id="12_2a0ap"]
+[ext_resource type="Texture2D" uid="uid://bosd2qgdffb2f" path="res://entities/turrets/missile/assets/textures/gun_die_10.png" id="13_tnfma"]
+[ext_resource type="Texture2D" uid="uid://c4k5l8mu3ip6s" path="res://entities/turrets/missile/assets/textures/gun_die_11.png" id="14_eo7lj"]
+[ext_resource type="Texture2D" uid="uid://b6jq6xf0fkls7" path="res://entities/turrets/missile/assets/textures/gun_die_12.png" id="15_tmxxy"]
+[ext_resource type="Texture2D" uid="uid://uik1xd52w5pb" path="res://entities/turrets/missile/assets/textures/gun_die_13.png" id="16_7o3rx"]
+[ext_resource type="Texture2D" uid="uid://smbjbi6yrfgt" path="res://entities/turrets/missile/assets/textures/gun_die_14.png" id="17_myqay"]
+[ext_resource type="Texture2D" uid="uid://cwnhklpnvj5kh" path="res://entities/turrets/missile/assets/textures/gun_die_15.png" id="18_43dtn"]
+[ext_resource type="Texture2D" uid="uid://cpaorxq4a7km4" path="res://entities/turrets/missile/assets/textures/gun_die_16.png" id="19_bk28w"]
+[ext_resource type="Texture2D" uid="uid://b4rxg1elicets" path="res://entities/turrets/missile/assets/textures/gun_die_17.png" id="20_gf7r8"]
+[ext_resource type="Texture2D" uid="uid://bsj10lqretkug" path="res://entities/turrets/missile/assets/textures/gun_die_18.png" id="21_f7j8f"]
+[ext_resource type="Texture2D" uid="uid://businbpddu3oc" path="res://entities/turrets/missile/assets/textures/gun_die_19.png" id="22_bj2rr"]
+[ext_resource type="Texture2D" uid="uid://ccrvtfptvp0fa" path="res://entities/turrets/missile/assets/textures/gun_die_20.png" id="23_arq10"]
+[ext_resource type="Texture2D" uid="uid://caowl0uv0wux3" path="res://entities/turrets/missile/assets/textures/gun_die_21.png" id="24_kbt0o"]
+[ext_resource type="Texture2D" uid="uid://dcwmd8o2e8kge" path="res://entities/turrets/missile/assets/textures/gun_die_22.png" id="25_mmvlr"]
+[ext_resource type="Texture2D" uid="uid://cliy7gyk3tt3r" path="res://entities/turrets/missile/assets/textures/gun_idle_00.png" id="26_nm7gg"]
+[ext_resource type="Texture2D" uid="uid://cywo7plu2xy2f" path="res://entities/turrets/missile/assets/textures/gun_shoot_a_00.png" id="27_hfbrj"]
+[ext_resource type="Texture2D" uid="uid://dcgjesv5o8qp" path="res://entities/turrets/missile/assets/textures/gun_shoot_a_01.png" id="28_r7qbg"]
+[ext_resource type="Texture2D" uid="uid://bjgwnr33tsinl" path="res://entities/turrets/missile/assets/textures/gun_shoot_a_02.png" id="29_n8vxa"]
+[ext_resource type="Texture2D" uid="uid://crl7prt8787ak" path="res://entities/turrets/missile/assets/textures/gun_shoot_a_03.png" id="30_detnr"]
+[ext_resource type="Texture2D" uid="uid://dcrdindfnanfp" path="res://entities/turrets/missile/assets/textures/gun_shoot_a_04.png" id="31_t72dc"]
+[ext_resource type="Texture2D" uid="uid://cprvbywiig5w1" path="res://entities/turrets/missile/assets/textures/gun_shoot_a_05.png" id="32_axto1"]
+[ext_resource type="Texture2D" uid="uid://bjish3ua1cbi1" path="res://entities/turrets/missile/assets/textures/gun_shoot_a_06.png" id="33_yfx1b"]
+[ext_resource type="Texture2D" uid="uid://c6ear3do3w2mm" path="res://entities/turrets/missile/assets/textures/gun_shoot_a_07.png" id="34_5tkgd"]
+[ext_resource type="Texture2D" uid="uid://bsk5eadyraqcu" path="res://entities/turrets/missile/assets/textures/gun_shoot_b_00.png" id="35_7gyud"]
+[ext_resource type="Texture2D" uid="uid://bjh47156p3gua" path="res://entities/turrets/missile/assets/textures/gun_shoot_b_01.png" id="36_1e7sc"]
+[ext_resource type="Texture2D" uid="uid://caljlf00xt16q" path="res://entities/turrets/missile/assets/textures/gun_shoot_b_02.png" id="37_3ordg"]
+[ext_resource type="Texture2D" uid="uid://b7cu2i0ajgiun" path="res://entities/turrets/missile/assets/textures/gun_shoot_b_03.png" id="38_g7ax3"]
+[ext_resource type="Texture2D" uid="uid://bu3rpqkpfntf7" path="res://entities/turrets/missile/assets/textures/gun_shoot_b_04.png" id="39_w0q83"]
+[ext_resource type="Texture2D" uid="uid://do75ptv86u01w" path="res://entities/turrets/missile/assets/textures/gun_shoot_b_05.png" id="40_1kxdx"]
+[ext_resource type="Texture2D" uid="uid://dheoa7vbi687i" path="res://entities/turrets/missile/assets/textures/gun_shoot_b_06.png" id="41_1mckd"]
+[ext_resource type="Texture2D" uid="uid://cx0r1117a5xta" path="res://entities/turrets/missile/assets/textures/gun_shoot_b_07.png" id="42_u6wjk"]
+[ext_resource type="Texture2D" uid="uid://dat1u2jr1n54h" path="res://entities/assets/textures/missile_vfx/gun_fx_00.png" id="43_sa5t4"]
+[ext_resource type="Texture2D" uid="uid://0nqxb5aias7b" path="res://entities/assets/textures/missile_vfx/gun_fx_01.png" id="44_dd3r1"]
+[ext_resource type="Texture2D" uid="uid://dhdw8umur4wry" path="res://entities/assets/textures/missile_vfx/gun_fx_02.png" id="45_d78be"]
+[ext_resource type="Texture2D" uid="uid://dyrb3yn3pjljv" path="res://entities/assets/textures/missile_vfx/gun_fx_03.png" id="46_1h0rb"]
+[ext_resource type="Texture2D" uid="uid://b51xwl1nt7eig" path="res://entities/assets/textures/missile_vfx/gun_fx_04.png" id="47_qgfac"]
+[ext_resource type="Texture2D" uid="uid://bcklf566ymctf" path="res://entities/assets/textures/missile_vfx/gun_fx_05.png" id="48_sh48g"]
+[ext_resource type="Texture2D" uid="uid://c6jma3iiarg4n" path="res://entities/assets/textures/missile_vfx/gun_fx_06.png" id="49_b41m8"]
+[ext_resource type="Texture2D" uid="uid://d04k16lu1laqu" path="res://entities/assets/textures/missile_vfx/gun_fx_07.png" id="50_hjpvd"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_yx8pa"]
+resource_local_to_scene = true
+size = Vector2(80, 80)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_pwq6h"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("3_00eq4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_3s5ks")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_twl2s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_nhpr2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_b3aj2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_lokyw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_15vi2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_ft27j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_4ukmb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_2a0ap")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_tnfma")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_eo7lj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_tmxxy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_7o3rx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_myqay")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_43dtn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_bk28w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_gf7r8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_f7j8f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_bj2rr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_arq10")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_kbt0o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_mmvlr")
+}],
+"loop": false,
+"name": &"explode",
+"speed": 12.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("26_nm7gg")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("27_hfbrj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_r7qbg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_n8vxa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_detnr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_t72dc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_axto1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_yfx1b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_5tkgd")
+}],
+"loop": false,
+"name": &"shoot_a",
+"speed": 10.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("35_7gyud")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_1e7sc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_3ordg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_g7ax3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_w0q83")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_1kxdx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_1mckd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_u6wjk")
+}],
+"loop": false,
+"name": &"shoot_b",
+"speed": 10.0
+}]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_ncayq"]
+resource_local_to_scene = true
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": null
+}],
+"loop": false,
+"name": &"explode",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": null
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("43_sa5t4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_dd3r1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_d78be")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_1h0rb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_qgfac")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_sh48g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_b41m8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_hjpvd")
+}],
+"loop": false,
+"name": &"shoot_a",
+"speed": 10.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("43_sa5t4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_dd3r1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_d78be")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_1h0rb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_qgfac")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_sh48g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_b41m8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_hjpvd")
+}],
+"loop": false,
+"name": &"shoot_b",
+"speed": 10.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_uqy80"]
+radius = 1000.0
+
+[node name="NuclearTurret" instance=ExtResource("1_jbpwt")]
+health = 500
+
+[node name="CollisionShape2D" parent="." index="1"]
+position = Vector2(-8, 0)
+shape = SubResource("RectangleShape2D_yx8pa")
+
+[node name="Shooter" parent="." index="3"]
+modulate = Color(1, 1, 0.32549, 1)
+detect_radius = 1000
+fire_rate = 10.0
+rot_speed = 2.0
+projectile_type = ExtResource("2_jmvpr")
+projectile_spread = 0.0
+projectile_speed = 300
+projectile_damage = 5000
+
+[node name="Gun" parent="Shooter" index="0"]
+position = Vector2(2, 0)
+sprite_frames = SubResource("SpriteFrames_pwq6h")
+frame_progress = 0.949127
+offset = Vector2(-2, 0)
+metadata/_edit_lock_ = true
+
+[node name="Muzzle" parent="Shooter/Gun" index="0"]
+position = Vector2(30, 0)
+
+[node name="MuzzleFlash" parent="Shooter" index="1"]
+position = Vector2(19, -30)
+sprite_frames = SubResource("SpriteFrames_ncayq")
+frame_progress = 0.2219
+offset = Vector2(12, 3)
+
+[node name="Detector" parent="Shooter" index="2"]
+collision_mask = 97
+
+[node name="CollisionShape2D" parent="Shooter/Detector" index="0"]
+shape = SubResource("CircleShape2D_uqy80")
+
+[node name="LookAhead" parent="Shooter" index="3"]
+target_position = Vector2(1050, 0)
+collision_mask = 97
+
+[editable path="Shooter"]

@@ -1,0 +1,287 @@
+[gd_scene load_steps=63 format=3 uid="uid://bpfxrikreyu1f"]
+
+[ext_resource type="PackedScene" uid="uid://q63lxc50ni31" path="res://entities/enemies/enemy.tscn" id="1_vr2u2"]
+[ext_resource type="Texture2D" uid="uid://dvslmim8gtmdm" path="res://entities/enemies/infantry/assets/textures/tier2/die_00.png" id="2_0n4gi"]
+[ext_resource type="Texture2D" uid="uid://cyqia0ngmbbst" path="res://entities/enemies/infantry/assets/textures/tier2/die_01.png" id="3_snlid"]
+[ext_resource type="Texture2D" uid="uid://cawendrrw1dck" path="res://entities/enemies/infantry/assets/textures/tier2/die_02.png" id="4_uybcm"]
+[ext_resource type="Texture2D" uid="uid://cq7smx7fo2c7q" path="res://entities/enemies/infantry/assets/textures/tier2/die_03.png" id="5_vm1nc"]
+[ext_resource type="Texture2D" uid="uid://cvucnaq3vsa4q" path="res://entities/enemies/infantry/assets/textures/tier2/die_04.png" id="6_j26qj"]
+[ext_resource type="Texture2D" uid="uid://cl6aykrb3c8of" path="res://entities/enemies/infantry/assets/textures/tier2/die_05.png" id="7_7re77"]
+[ext_resource type="Texture2D" uid="uid://cyya56btvkq7n" path="res://entities/enemies/infantry/assets/textures/tier2/die_06.png" id="8_ls3fo"]
+[ext_resource type="Texture2D" uid="uid://b7n50elnouehn" path="res://entities/enemies/infantry/assets/textures/tier2/die_07.png" id="9_6060n"]
+[ext_resource type="Texture2D" uid="uid://c3jyt6q62dwxu" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_00.png" id="10_5qprr"]
+[ext_resource type="Texture2D" uid="uid://4m07ablosg6s" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_01.png" id="11_exkvf"]
+[ext_resource type="Texture2D" uid="uid://cj0dth37sceat" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_02.png" id="12_0tx1w"]
+[ext_resource type="Texture2D" uid="uid://b5ucjn6uht08a" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_03.png" id="13_2838x"]
+[ext_resource type="Texture2D" uid="uid://cbkl85u3mvxiy" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_04.png" id="14_odysh"]
+[ext_resource type="Texture2D" uid="uid://34nfcp3rxgn1" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_05.png" id="15_70hmt"]
+[ext_resource type="Texture2D" uid="uid://dallnalhfjcce" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_06.png" id="16_k564a"]
+[ext_resource type="Texture2D" uid="uid://i88mxxkct8v1" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_07.png" id="17_i16sm"]
+[ext_resource type="Texture2D" uid="uid://ctwm7pv1b7665" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_08.png" id="18_5chqx"]
+[ext_resource type="Texture2D" uid="uid://dfsxb5dhmnqb" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_09.png" id="19_cw27s"]
+[ext_resource type="Texture2D" uid="uid://txownubqprp1" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_10.png" id="20_d16cw"]
+[ext_resource type="Texture2D" uid="uid://c8l2y66y6bvxh" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_11.png" id="21_3cecq"]
+[ext_resource type="Texture2D" uid="uid://qiojk80jbbv4" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_12.png" id="22_k11xq"]
+[ext_resource type="Texture2D" uid="uid://dy43qoc8uxbm3" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_13.png" id="23_8efbk"]
+[ext_resource type="Texture2D" uid="uid://bieqlfbjprs2" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_14.png" id="24_ywrny"]
+[ext_resource type="Texture2D" uid="uid://dl1fg4tiyqofo" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_15.png" id="25_re4us"]
+[ext_resource type="Texture2D" uid="uid://cb0x83hnr60gw" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_16.png" id="26_pn878"]
+[ext_resource type="Texture2D" uid="uid://ckohtswlrw6pr" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_17.png" id="27_micn7"]
+[ext_resource type="Texture2D" uid="uid://dabev6uftrkom" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_18.png" id="28_8vyb0"]
+[ext_resource type="Texture2D" uid="uid://c6x7gvpe8saya" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_19.png" id="29_6gfpf"]
+[ext_resource type="Texture2D" uid="uid://b4d4dyqo3gosx" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_20.png" id="30_vtqfa"]
+[ext_resource type="Texture2D" uid="uid://bxkvr02yovxjr" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_21.png" id="31_kedsw"]
+[ext_resource type="Texture2D" uid="uid://d3tbgvtn6en70" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_22.png" id="32_lqnll"]
+[ext_resource type="Texture2D" uid="uid://cd30dlnw1dqsf" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_23.png" id="33_ticew"]
+[ext_resource type="Texture2D" uid="uid://cwvyum1cj1dnx" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_24.png" id="34_wusb0"]
+[ext_resource type="Texture2D" uid="uid://dxdcpp8nps3js" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_25.png" id="35_3rbl1"]
+[ext_resource type="Texture2D" uid="uid://2f1u74illr1v" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_26.png" id="36_ay0f7"]
+[ext_resource type="Texture2D" uid="uid://c1u0ljnfxjb7n" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_27.png" id="37_x11os"]
+[ext_resource type="Texture2D" uid="uid://lqnuetbhvrun" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_28.png" id="38_uniij"]
+[ext_resource type="Texture2D" uid="uid://bjmxaspk5e8ly" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_29.png" id="39_0xk44"]
+[ext_resource type="Texture2D" uid="uid://cjl8ahbixi72l" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_30.png" id="40_1mcfb"]
+[ext_resource type="Texture2D" uid="uid://bawf7hj0ecvbr" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_31.png" id="41_kw2nv"]
+[ext_resource type="Texture2D" uid="uid://c0r1g5cwxrtg8" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_32.png" id="42_y51nd"]
+[ext_resource type="Texture2D" uid="uid://b2t3xdxjwt0pa" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_33.png" id="43_jxklh"]
+[ext_resource type="Texture2D" uid="uid://4flndx4ra3op" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_34.png" id="44_6gb7g"]
+[ext_resource type="Texture2D" uid="uid://b1o7y1lkloc7q" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_35.png" id="45_le0rs"]
+[ext_resource type="Texture2D" uid="uid://dm8x7jbxmjpw8" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_36.png" id="46_6g1w8"]
+[ext_resource type="Texture2D" uid="uid://g53d02rmukom" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_37.png" id="47_ghttp"]
+[ext_resource type="Texture2D" uid="uid://c203bhpsq4j18" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_38.png" id="48_63omh"]
+[ext_resource type="Texture2D" uid="uid://dn6cvnvqf0xn3" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_39.png" id="49_8shpv"]
+[ext_resource type="Texture2D" uid="uid://lvxu0ujg6c14" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_40.png" id="50_m080e"]
+[ext_resource type="Texture2D" uid="uid://rcuu3dtbjee0" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_41.png" id="51_sqkms"]
+[ext_resource type="Texture2D" uid="uid://cvilp0ds5igtp" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_42.png" id="52_oy3dv"]
+[ext_resource type="Texture2D" uid="uid://crj5biavnv44r" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_43.png" id="53_12c6k"]
+[ext_resource type="Texture2D" uid="uid://yf6203q3t7w3" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_44.png" id="54_cjmmo"]
+[ext_resource type="Texture2D" uid="uid://bmpunre8plo64" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_45.png" id="55_mlgqa"]
+[ext_resource type="Texture2D" uid="uid://duobvsupuyq7w" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_46.png" id="56_c8gl0"]
+[ext_resource type="Texture2D" uid="uid://ct3w7a4omxm0y" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_47.png" id="57_u8uwr"]
+[ext_resource type="Texture2D" uid="uid://h0t3yxakui80" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_48.png" id="58_js20k"]
+[ext_resource type="Texture2D" uid="uid://bmsa3ccoydipw" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_49.png" id="59_4x2da"]
+[ext_resource type="Texture2D" uid="uid://jm3wlflk0pep" path="res://entities/enemies/infantry/assets/textures/tier3/Armature_newAnimation_50.png" id="60_f2s4u"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_65d1v"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_0n4gi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_snlid")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_uybcm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_vm1nc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_j26qj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_7re77")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_ls3fo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_6060n")
+}],
+"loop": false,
+"name": &"die",
+"speed": 12.0
+}, {
+"frames": [],
+"loop": true,
+"name": &"hit",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("10_5qprr")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("10_5qprr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_exkvf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_0tx1w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_2838x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_odysh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_70hmt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_k564a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_i16sm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_5chqx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_cw27s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_d16cw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_3cecq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_k11xq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_8efbk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_ywrny")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_re4us")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_pn878")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_micn7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_8vyb0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_6gfpf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_vtqfa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_kedsw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_lqnll")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_ticew")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_wusb0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_3rbl1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_ay0f7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_x11os")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_uniij")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_0xk44")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_1mcfb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_kw2nv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_y51nd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_jxklh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_6gb7g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_le0rs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_6g1w8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_ghttp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_63omh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_8shpv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_m080e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_sqkms")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_oy3dv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_12c6k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_cjmmo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_mlgqa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_c8gl0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_u8uwr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_js20k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_4x2da")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_f2s4u")
+}],
+"loop": true,
+"name": &"move",
+"speed": 9.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_yy5b4"]
+resource_local_to_scene = true
+radius = 24.0
+
+[node name="InfantryT3" instance=ExtResource("1_vr2u2")]
+speed = 150
+
+[node name="Sprite2D" parent="." index="1"]
+position = Vector2(1, 9.53674e-07)
+rotation = -1.575
+scale = Vector2(0.50625, 0.496875)
+sprite_frames = SubResource("SpriteFrames_65d1v")
+animation = &"die"
+frame = 7
+frame_progress = 1.0
+
+[node name="CollisionShape2D" parent="." index="2"]
+shape = SubResource("CircleShape2D_yy5b4")
+
+[node name="NavigationAgent2D" parent="." index="3"]
+time_horizon_agents = 40.0
