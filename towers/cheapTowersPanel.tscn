@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://d3121eo7a816o"]
+
+[ext_resource type="Script" path="res://towers/cheap_towers_panel.gd" id="1_p23ff"]
+[ext_resource type="Texture2D" uid="uid://7ad30en6fxkl" path="res://towers/cheapTowerSprite.png" id="2_0du70"]
+
+[node name="RedTowerPanel" type="Panel"]
+custom_minimum_size = Vector2(100, 100)
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_p23ff")
+
+[node name="CheapTowerSprite" type="Sprite2D" parent="."]
+position = Vector2(51, 45)
+scale = Vector2(1.57813, 1.65625)
+texture = ExtResource("2_0du70")
+
+[connection signal="gui_input" from="." to="." method="_on_gui_input"]

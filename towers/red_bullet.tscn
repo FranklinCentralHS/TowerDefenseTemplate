@@ -1,0 +1,29 @@
+[gd_scene load_steps=5 format=3 uid="uid://ten1yy6ubmmj"]
+
+[ext_resource type="Texture2D" uid="uid://crtyeiweseox0" path="res://towers/bullet.png" id="1_4mhs3"]
+[ext_resource type="Script" path="res://red_bullet.gd" id="1_8hfbw"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_x38tv"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_awkcl"]
+radius = 14.0
+height = 36.0
+
+[node name="redBullet" type="CharacterBody2D"]
+script = ExtResource("1_8hfbw")
+
+[node name="Bullet" type="Sprite2D" parent="."]
+rotation = 1.5708
+texture = ExtResource("1_4mhs3")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+rotation = 1.5708
+shape = SubResource("CapsuleShape2D_x38tv")
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+rotation = 1.5708
+shape = SubResource("CapsuleShape2D_awkcl")
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]

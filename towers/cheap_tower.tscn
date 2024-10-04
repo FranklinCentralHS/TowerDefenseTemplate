@@ -1,0 +1,37 @@
+[gd_scene load_steps=5 format=3 uid="uid://dlo50lfw6ruwc"]
+
+[ext_resource type="Script" path="res://towers/cheap_tower.gd" id="1_2gubn"]
+[ext_resource type="Texture2D" uid="uid://7ad30en6fxkl" path="res://towers/cheapTowerSprite.png" id="1_wn33e"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_7kto2"]
+size = Vector2(55, 43)
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_nyyu8"]
+radius = 139.607
+
+[node name="CheapTower" type="StaticBody2D"]
+collision_layer = 2
+collision_mask = 2
+script = ExtResource("1_2gubn")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-2.5, 0.5)
+shape = SubResource("RectangleShape2D_7kto2")
+
+[node name="Aim" type="Marker2D" parent="."]
+
+[node name="CheapTowerSprite" type="Sprite2D" parent="."]
+position = Vector2(5.42101e-20, 0)
+rotation = 1.5708
+scale = Vector2(0.728308, 0.93902)
+texture = ExtResource("1_wn33e")
+
+[node name="Tower" type="Area2D" parent="."]
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="Tower"]
+shape = SubResource("CircleShape2D_nyyu8")
+
+[node name="BulletContainer" type="Node" parent="."]
+
+[connection signal="body_entered" from="Tower" to="." method="_on_tower_body_entered"]
+[connection signal="body_exited" from="Tower" to="." method="_on_tower_body_exited"]
