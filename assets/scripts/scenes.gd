@@ -5,12 +5,15 @@ extends Node
 # Enemies
 const INFANTRY_T1 := "res://entities/enemies/infantry/infantry_t1.tscn"
 const INFANTRY_T2 := "res://entities/enemies/infantry/infantry_t2.tscn"
+const INFANTRY_T3 := "res://entities/enemies/infantry/infantry_t3.tscn"
 const TANK := "res://entities/enemies/shooting/tanks/tank.tscn"
 const HELICOPTER := "res://entities/enemies/shooting/helicopters/helicopter.tscn"
 # Turrets
 const GATLING_TURRET := "res://entities/turrets/gatling/gatling_turret.tscn"
 const SINGLE_TURRET := "res://entities/turrets/single/single_turret.tscn"
 const MISSILE_TURRET := "res://entities/turrets/missile/missile_turret.tscn"
+const LASER_TURRET := "res://entities/turrets/laser/laser_turret.tscn"
+const NUCLEAR_TURRET := "res://entities/turrets/nuclear/nuclear_turret.tscn"
 # Scenes
 const MAIN_MENU := "res://interfaces/UI/menu/menu.tscn"
 const MAP_TEMPLATE := "res://scenes/maps/map_template.tscn"
@@ -23,6 +26,8 @@ static func get_enemy_path(enemy_name: String) -> String:
 			enemy_path = INFANTRY_T1
 		"infantry_t2":
 			enemy_path = INFANTRY_T2
+		"infantry_t3":
+			enemy_path = INFANTRY_T3
 		"tank":
 			enemy_path = TANK
 		"helicopter":
@@ -41,6 +46,10 @@ static func get_turret_path(turret_name: String) -> String:
 			turret_path = SINGLE_TURRET
 		"missile":
 			turret_path = MISSILE_TURRET
+		"laser":
+			turret_path = LASER_TURRET
+		"nuclear":
+			turret_path = NUCLEAR_TURRET
 		_:
 			printerr("Cannot get turret scene from name %s" % turret_name)
 	return turret_path

@@ -8,6 +8,8 @@ var turret_prices := {
 	"gatling": 250,
 	"single": 400,
 	"missile": 800,
+	"laser": 600,
+	"nuclear": 5000,
 }
 
 

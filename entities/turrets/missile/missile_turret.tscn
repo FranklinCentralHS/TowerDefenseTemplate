@@ -1,7 +1,7 @@
 [gd_scene load_steps=55 format=3 uid="uid://cwg8o1jumjeet"]
 
 [ext_resource type="PackedScene" uid="uid://q3ewy63w2x0m" path="res://entities/turrets/turret.tscn" id="1_46fx6"]
-[ext_resource type="PackedScene" uid="uid://d0i8efn2ow88m" path="res://entities/projectiles/missile/homing_missile.tscn" id="3_mk2yu"]
+[ext_resource type="PackedScene" uid="uid://d0i8efn2ow88m" path="res://entities/projectiles/nuclear/nuclear_missile.tscn" id="3_mk2yu"]
 [ext_resource type="Texture2D" uid="uid://op4nyoe0a3da" path="res://entities/turrets/missile/assets/textures/gun_die_00.png" id="4_3iqqf"]
 [ext_resource type="Texture2D" uid="uid://cliy7gyk3tt3r" path="res://entities/turrets/missile/assets/textures/gun_idle_00.png" id="4_utfvp"]
 [ext_resource type="Texture2D" uid="uid://d3a2upii6nmgs" path="res://entities/turrets/missile/assets/textures/gun_die_01.png" id="5_b0yrp"]
@@ -50,6 +50,7 @@
 [ext_resource type="Texture2D" uid="uid://dcwmd8o2e8kge" path="res://entities/turrets/missile/assets/textures/gun_die_22.png" id="26_sobf6"]
 [ext_resource type="Texture2D" uid="uid://c6jma3iiarg4n" path="res://entities/assets/textures/missile_vfx/gun_fx_06.png" id="27_ccrje"]
 [ext_resource type="Texture2D" uid="uid://d04k16lu1laqu" path="res://entities/assets/textures/missile_vfx/gun_fx_07.png" id="28_36qse"]
+
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_yx8pa"]
 resource_local_to_scene = true
