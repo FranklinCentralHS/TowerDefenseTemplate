@@ -1,0 +1,16 @@
+[gd_scene load_steps=4 format=3 uid="uid://hxobl58jdxjp"]
+
+[ext_resource type="Script" path="res://scripts/soldier_1.gd" id="1_mc46e"]
+[ext_resource type="Texture2D" uid="uid://b24ma8o80ccfy" path="res://sprites/Tower Defense (top-down)/PNG/Default size/towerDefense_tile245.png" id="1_qvqey"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_vulud"]
+
+[node name="Soldier A" type="CharacterBody2D"]
+scale = Vector2(2, 2)
+script = ExtResource("1_mc46e")
+
+[node name="TowerDefenseTile245" type="Sprite2D" parent="."]
+texture = ExtResource("1_qvqey")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_vulud")
